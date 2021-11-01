@@ -1,0 +1,562 @@
+[
+  {
+    "name": "fukuball/lyrics-match",
+    "description": "本系統「再三推詞」是一個以曲找詞的舊曲新詞推薦系統，本系統提供使用者以輸入的歌曲，查詢適合搭配的歌詞。系統將根據詞曲搭配性，推薦適合搭配的歌詞，並以歌聲模擬軟體試唱。",
+    "href": "https://github.com/fukuball/lyrics-match",
+    "star": "18",
+    "lang": "PHP"
+  },
+  {
+    "name": "fukuball/Tom-Chang-Deep-Lyrics",
+    "description": "基於 LSTM 深度學習方法研發而成的張雨生歌詞產生模型，致敬張雨生",
+    "href": "https://github.com/fukuball/Tom-Chang-Deep-Lyrics",
+    "star": "84",
+    "lang": "Python"
+  },
+  {
+    "name": "hhpslily/mojim_crawler",
+    "description": "魔鏡歌詞網爬蟲",
+    "href": "https://github.com/hhpslily/mojim_crawler",
+    "star": "3",
+    "lang": "Python"
+  },
+  {
+    "name": "furyutei/KashiKaikin",
+    "description": "【歌詞解禁】 歌詞検索サービスの歌詞テキストコピーを可能に",
+    "href": "https://github.com/furyutei/KashiKaikin",
+    "star": "16",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "LKKTGB/kuasu",
+    "description": "歌詞正字",
+    "href": "https://github.com/LKKTGB/kuasu",
+    "star": "8",
+    "lang": "Python"
+  },
+  {
+    "name": "TextAliveJp/textalive-app-api",
+    "description": "音楽に合わせてタイミングよく歌詞が動くWebアプリケーションを開発できるJavaScript API",
+    "href": "https://github.com/TextAliveJp/textalive-app-api",
+    "star": "61",
+    "lang": ""
+  },
+  {
+    "name": "loxygenK/musical_typer",
+    "description": "歌詞を全力でタイピングするゲームです",
+    "href": "https://github.com/loxygenK/musical_typer",
+    "star": "5",
+    "lang": "Python"
+  },
+  {
+    "name": "Ran350/Lyrics-visualize",
+    "description": "歌詞可視化",
+    "href": "https://github.com/Ran350/Lyrics-visualize",
+    "star": "3",
+    "lang": "Python"
+  },
+  {
+    "name": "TextAliveJp/textalive-app-lyric-sheet",
+    "description": "インタラクティブな歌詞カードを実装した TextAlive App API の作例",
+    "href": "https://github.com/TextAliveJp/textalive-app-lyric-sheet",
+    "star": "",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "twjefchiu/lyric_genator",
+    "description": "AI 中文歌詞產生器",
+    "href": "https://github.com/twjefchiu/lyric_genator",
+    "star": "",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "sky880319/lrcmaker",
+    "description": "LRC 歌詞檔案製作工具",
+    "href": "https://github.com/sky880319/lrcmaker",
+    "star": "4",
+    "lang": "C#"
+  },
+  {
+    "name": "noriokun4649/mb_KashiNaviLyricsPlugin",
+    "description": "MusicBeeにて歌詞ナビから歌詞取得するプラグイン",
+    "href": "https://github.com/noriokun4649/mb_KashiNaviLyricsPlugin",
+    "star": "2",
+    "lang": "C#"
+  },
+  {
+    "name": "harry900831/mojim_lyrics_crawler",
+    "description": "Mojim.com 魔鏡歌詞網 歌詞爬蟲",
+    "href": "https://github.com/harry900831/mojim_lyrics_crawler",
+    "star": "2",
+    "lang": "Python"
+  },
+  {
+    "name": "kvvzr/emoly",
+    "description": "歌詞ツイートをするぞ",
+    "href": "https://github.com/kvvzr/emoly",
+    "star": "2",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "HectorJorgeMoralesArch/Uta_No_Ka-shi",
+    "description": "歌の歌詞",
+    "href": "https://github.com/HectorJorgeMoralesArch/Uta_No_Ka-shi",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "motokix/mizutama",
+    "description": "歌詞",
+    "href": "https://github.com/motokix/mizutama",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "masaibar/lyrics_getter",
+    "description": "歌詞検索サイトから簡単に歌詞をコピーできるChrome拡張",
+    "href": "https://github.com/masaibar/lyrics_getter",
+    "star": "2",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "cheukyin699/chords-site",
+    "description": "中文詞歌歌詞大全",
+    "href": "https://github.com/cheukyin699/chords-site",
+    "star": "",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "yeeeeeCheng/yeeeeeCheng.github.io",
+    "description": "放歌詞ㄉ",
+    "href": "https://github.com/yeeeeeCheng/yeeeeeCheng.github.io",
+    "star": "",
+    "lang": "CSS"
+  },
+  {
+    "name": "FlandreDaisuki/Furikana-Lyric",
+    "description": "打日文歌詞省點力",
+    "href": "https://github.com/FlandreDaisuki/Furikana-Lyric",
+    "star": "2",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "ex860/JPLyrics",
+    "description": "輕鬆取得日文歌詞",
+    "href": "https://github.com/ex860/JPLyrics",
+    "star": "2",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "jenocode/hymn21",
+    "description": "賛美歌２１ 歌詞リスト",
+    "href": "https://github.com/jenocode/hymn21",
+    "star": "",
+    "lang": "HTML"
+  },
+  {
+    "name": "ryfjwr/copy",
+    "description": "歌詞の写生",
+    "href": "https://github.com/ryfjwr/copy",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "irnoise/Lyrie",
+    "description": "歌詞検索アプリ",
+    "href": "https://github.com/irnoise/Lyrie",
+    "star": "",
+    "lang": "Java"
+  },
+  {
+    "name": "vickyliin/SingYourFeelings",
+    "description": "「把你心情哼成歌」（Sing Your Feelings）是一個結合文字辨識和音樂生成的系統，把一段有意義的句子、詩詞或文章轉換成一段好聽的音樂，並能體現出這段文字的意涵。",
+    "href": "https://github.com/vickyliin/SingYourFeelings",
+    "star": "24",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "kusoinlol/lrc2krc",
+    "description": "轉換LRC動態歌詞為KRC動態歌詞",
+    "href": "https://github.com/kusoinlol/lrc2krc",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "masaibar/kasitime_lyrics_getter",
+    "description": "歌詞タイムから歌詞をコピーするChrome拡張",
+    "href": "https://github.com/masaibar/kasitime_lyrics_getter",
+    "star": "",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "KohheiAdachi/getWordofSong",
+    "description": "歌詞サイトから歌詞を取得するスクリプト",
+    "href": "https://github.com/KohheiAdachi/getWordofSong",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "castaneai/utype",
+    "description": "歌詞をタイピングするゲーム",
+    "href": "https://github.com/castaneai/utype",
+    "star": "",
+    "lang": "TypeScript"
+  },
+  {
+    "name": "MuneyasuKagawa/LyricGetter",
+    "description": "ボカロ歌詞取得アプリ",
+    "href": "https://github.com/MuneyasuKagawa/LyricGetter",
+    "star": "",
+    "lang": "C#"
+  },
+  {
+    "name": "eggplant60/vae_lyrics",
+    "description": "LSTM-VAE で歌詞生成",
+    "href": "https://github.com/eggplant60/vae_lyrics",
+    "star": "",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "Young-TW/Lyrics",
+    "description": "歌詞 打上花火 Lemon",
+    "href": "https://github.com/Young-TW/Lyrics",
+    "star": "1",
+    "lang": "HTML"
+  },
+  {
+    "name": "sumajirou/kashi",
+    "description": "歌詞検索CLIツール",
+    "href": "https://github.com/sumajirou/kashi",
+    "star": "",
+    "lang": "Shell"
+  },
+  {
+    "name": "aiyu666/CCViewer",
+    "description": "一個方便在其他頁面也能邊看youtube的cc字幕的chrome擴充 唱歌再也不用煩惱忘歌詞啦",
+    "href": "https://github.com/aiyu666/CCViewer",
+    "star": "8",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "houooin/lyrics_generator",
+    "description": "日本語の歌詞をスクレイピングして歌詞生成をやってみる",
+    "href": "https://github.com/houooin/lyrics_generator",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "Riscait/SoundsLyric",
+    "description": "歌詞とメロディーを一緒に編集できるメモアプリ",
+    "href": "https://github.com/Riscait/SoundsLyric",
+    "star": "2",
+    "lang": "Swift"
+  },
+  {
+    "name": "Wyuya0321/compose_music",
+    "description": "コードと歌詞をメモします。",
+    "href": "https://github.com/Wyuya0321/compose_music",
+    "star": "",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "entroweeab/kashi",
+    "description": "日本語曲の歌詞リーポ",
+    "href": "https://github.com/entroweeab/kashi",
+    "star": "1",
+    "lang": ""
+  },
+  {
+    "name": "arashian/Extract-English-Lyrics",
+    "description": "英字の歌詞を抽出",
+    "href": "https://github.com/arashian/Extract-English-Lyrics",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "Sil-Nyan/WordAnalysis",
+    "description": "RW歌詞解析【製作中】",
+    "href": "https://github.com/Sil-Nyan/WordAnalysis",
+    "star": "",
+    "lang": "Java"
+  },
+  {
+    "name": "unromanticman/LyricsVerse",
+    "description": "LyricsVerse 蒐集歌詞的網站 JSP",
+    "href": "https://github.com/unromanticman/LyricsVerse",
+    "star": "",
+    "lang": "Java"
+  },
+  {
+    "name": "oatsu-gh/very_suppin_lyric",
+    "description": "超歌詞すっぴんプラグイン",
+    "href": "https://github.com/oatsu-gh/very_suppin_lyric",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "yosi2112/kashinako",
+    "description": "MuseScore歌詞入力支援スクリプト",
+    "href": "https://github.com/yosi2112/kashinako",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "nshhhin/GetLyric-Py",
+    "description": "歌詞を取得するPythonプログラム",
+    "href": "https://github.com/nshhhin/GetLyric-Py",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "zephyros0305/lyric_search",
+    "description": "歌詞搜尋器(運用爬蟲)",
+    "href": "https://github.com/zephyros0305/lyric_search",
+    "star": "1",
+    "lang": "Python"
+  },
+  {
+    "name": "sayuen0/React_Lyrics",
+    "description": "歌詞検索アプリ（Reduxもどき）",
+    "href": "https://github.com/sayuen0/React_Lyrics",
+    "star": "",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "coolcue123/topic",
+    "description": "魔鏡歌詞網下載作業",
+    "href": "https://github.com/coolcue123/topic",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "s-yoshiki/AnalyseJapaneseSongLyrics",
+    "description": "日本語歌の歌詞の取得〜分析",
+    "href": "https://github.com/s-yoshiki/AnalyseJapaneseSongLyrics",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "trebleC/LyricsCalendar",
+    "description": "自定义#撻著一句廣東歌歌詞",
+    "href": "https://github.com/trebleC/LyricsCalendar",
+    "star": "",
+    "lang": "TypeScript"
+  },
+  {
+    "name": "Chrischanko/hoshino_scraping",
+    "description": "ウェブスクレイピングで歌詞を抜き出し、星野源さんのシルエットに歌詞を表示",
+    "href": "https://github.com/Chrischanko/hoshino_scraping",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "oatsu-gh/daimyojinizer",
+    "description": "歌詞を大明神式歌連続音に対応させるUTAUプラグイン",
+    "href": "https://github.com/oatsu-gh/daimyojinizer",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "n3xem/analyse_vogue_lyric",
+    "description": "大学の課題 流行りの歌の歌詞を分析します",
+    "href": "https://github.com/n3xem/analyse_vogue_lyric",
+    "star": "1",
+    "lang": "Python"
+  },
+  {
+    "name": "JiroShimaya/PlayerTable",
+    "description": "やきゅうたの選手表を替え歌歌詞から作るシステム",
+    "href": "https://github.com/JiroShimaya/PlayerTable",
+    "star": "",
+    "lang": "HTML"
+  },
+  {
+    "name": "RyosukeTakahashi/JpopTextMining",
+    "description": "J-POPの歌詞をテキストマイニングして、ワードクラウドを作成する",
+    "href": "https://github.com/RyosukeTakahashi/JpopTextMining",
+    "star": "1",
+    "lang": "Python"
+  },
+  {
+    "name": "shigobu/FillingLyricToMIDI",
+    "description": "MIDIファイルに歌詞を流し込むアプリ",
+    "href": "https://github.com/shigobu/FillingLyricToMIDI",
+    "star": "",
+    "lang": "C#"
+  },
+  {
+    "name": "Juna-Idler/RhythmiKaRuTTE",
+    "description": "RhythmicalにKaraoke歌詞（with Ruby）のTimeTagをEditする",
+    "href": "https://github.com/Juna-Idler/RhythmiKaRuTTE",
+    "star": "",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "milleyin/Aplayer",
+    "description": "一個wp的播放器插件（帶歌詞顯示）",
+    "href": "https://github.com/milleyin/Aplayer",
+    "star": "",
+    "lang": "CSS"
+  },
+  {
+    "name": "Juna-Idler/LyricsView",
+    "description": "ルビ付きのタイムタグ付き歌詞テキストを表示",
+    "href": "https://github.com/Juna-Idler/LyricsView",
+    "star": "",
+    "lang": "C++"
+  },
+  {
+    "name": "h-bambara/crawling",
+    "description": "歌詞をクローリングするために使用する予定",
+    "href": "https://github.com/h-bambara/crawling",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "shimamorieiki/anakashiko",
+    "description": "歌詞の好みから楽曲を推薦",
+    "href": "https://github.com/shimamorieiki/anakashiko",
+    "star": "",
+    "lang": "TypeScript"
+  },
+  {
+    "name": "evanhutomo/nihon-kyoku",
+    "description": "日本曲の歌詞のプライベート収集です。",
+    "href": "https://github.com/evanhutomo/nihon-kyoku",
+    "star": "1",
+    "lang": "TeX"
+  },
+  {
+    "name": "tkumata/getLyrics",
+    "description": "バシュっと歌詞のテキストデータを取得できる bash スクリプト",
+    "href": "https://github.com/tkumata/getLyrics",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "zdogma/AikatsuLyric",
+    "description": "アイカツ歌詞と関連動画を閲覧できる iOS アプリ",
+    "href": "https://github.com/zdogma/AikatsuLyric",
+    "star": "1",
+    "lang": "Swift"
+  },
+  {
+    "name": "Bob-YsPan/2020-PPT",
+    "description": "2020 高中生大合唱 PPT 歌詞版",
+    "href": "https://github.com/Bob-YsPan/2020-PPT",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "Darsein/lovelive-wordcloud",
+    "description": "ラブライブの歌詞からワードクラウドを作成するプログラム",
+    "href": "https://github.com/Darsein/lovelive-wordcloud",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "eggplant60/uta-net",
+    "description": "歌詞を分かち書きし、データセットを作る",
+    "href": "https://github.com/eggplant60/uta-net",
+    "star": "",
+    "lang": "HTML"
+  },
+  {
+    "name": "irnoise/weblyrie",
+    "description": "歌詞検索用のWEBアプリケーション：Struts2を使用",
+    "href": "https://github.com/irnoise/weblyrie",
+    "star": "",
+    "lang": "Java"
+  },
+  {
+    "name": "healthypackrat/duo-lyrics",
+    "description": "DUO 3.0 CD/復習用の音声に歌詞を設定",
+    "href": "https://github.com/healthypackrat/duo-lyrics",
+    "star": "",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "KiruyaMomochi/KiruyaMomochi",
+    "description": "Yes! Precious Harmony! 歌詞翻譯來自「徒花✨Crossick最推し」",
+    "href": "https://github.com/KiruyaMomochi/KiruyaMomochi",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "Hi-king/miku_lyrics_analysis",
+    "description": "ボカロ曲の歌詞内容の統計を取るよ",
+    "href": "https://github.com/Hi-king/miku_lyrics_analysis",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "syimyuzya/lrc-html5",
+    "description": "使用HTML5 audio元素實現的LRC格式歌詞時間標籤製作工具。",
+    "href": "https://github.com/syimyuzya/lrc-html5",
+    "star": "2",
+    "lang": "HTML"
+  },
+  {
+    "name": "KentoW/json2vsqx",
+    "description": "PythonでJSON形式の歌詞付きMIDIデータからVOCALOID3形式(VSQXファイル)を作成するスクリプト",
+    "href": "https://github.com/KentoW/json2vsqx",
+    "star": "2",
+    "lang": "Python"
+  },
+  {
+    "name": "logicbd01/lyricsFileiTunesToWalkman",
+    "description": "歌詞ファイルが埋め込まれたMP3ファイルからウォークマン用の歌詞ファイルを作成するやつを作りたい",
+    "href": "https://github.com/logicbd01/lyricsFileiTunesToWalkman",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "minatty/mm2020procon",
+    "description": "TextAliveAppAPIで取得できる歌詞情報に合わせて３Dモデルを歌わせるリリックアプリです。",
+    "href": "https://github.com/minatty/mm2020procon",
+    "star": "1",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "kwei/Discord_Lyrics_Robot",
+    "description": "專屬於discord的聊天機器人，用途是查詢歌詞。",
+    "href": "https://github.com/kwei/Discord_Lyrics_Robot",
+    "star": "",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "book000/iLyric",
+    "description": "iTunesで流している曲の歌詞を表示します。",
+    "href": "https://github.com/book000/iLyric",
+    "star": "",
+    "lang": "C#"
+  },
+  {
+    "name": "masal9pse/song-picture-text",
+    "description": "歌詞共有サイトみたいなものをイメージして作りました。",
+    "href": "https://github.com/masal9pse/song-picture-text",
+    "star": "1 issue\n              needs help",
+    "lang": "PHP"
+  },
+  {
+    "name": "riseshia/meta-lyrics",
+    "description": "メタカシ - コピペ可能な歌詞サイトを対象にグーグル検索を掛けるサービス",
+    "href": "https://github.com/riseshia/meta-lyrics",
+    "star": "",
+    "lang": "HTML"
+  },
+  {
+    "name": "a0726h77/lrcdis-with-a-little-hack",
+    "description": "使用此 script 在終端機做動態歌詞顯示 (支援 mocp)",
+    "href": "https://github.com/a0726h77/lrcdis-with-a-little-hack",
+    "star": "1",
+    "lang": ""
+  },
+  {
+    "name": "mes51/CreateLyricMarker",
+    "description": "vsqxから歌詞つきのマーカーの乗ったテキストレイヤーを作るスクリプト",
+    "href": "https://github.com/mes51/CreateLyricMarker",
+    "star": "",
+    "lang": "JavaScript"
+  }
+]

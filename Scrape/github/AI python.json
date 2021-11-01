@@ -1,0 +1,562 @@
+[
+  {
+    "name": "aimacode/aima-python",
+    "description": "Python implementation of algorithms from Russell And Norvig's \"Artificial Intelligence - A Modern Approach\"",
+    "href": "https://github.com/aimacode/aima-python",
+    "star": "5.8k",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "apache/airflow",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "href": "https://github.com/apache/airflow",
+    "star": "22.7k",
+    "lang": "Python"
+  },
+  {
+    "name": "aio-libs/aiohttp",
+    "description": "Asynchronous HTTP client/server framework for asyncio and Python",
+    "href": "https://github.com/aio-libs/aiohttp",
+    "star": "11.5k",
+    "lang": "Python"
+  },
+  {
+    "name": "apachecn/AiLearning",
+    "description": "AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP",
+    "href": "https://github.com/apachecn/AiLearning",
+    "star": "30.7k",
+    "lang": "Python"
+  },
+  {
+    "name": "pytorch/fairseq",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "href": "https://github.com/pytorch/fairseq",
+    "star": "13.5k",
+    "lang": "Python"
+  },
+  {
+    "name": "wit-ai/pywit",
+    "description": "Python library for Wit.ai",
+    "href": "https://github.com/wit-ai/pywit",
+    "star": "1.2k",
+    "lang": "Python"
+  },
+  {
+    "name": "myuon/AI",
+    "description": "artificial intelligence on python!",
+    "href": "https://github.com/myuon/AI",
+    "star": "84",
+    "lang": "Python"
+  },
+  {
+    "name": "OlafenwaMoses/ImageAI",
+    "description": "A python library built to empower developers to build applications and systems with self-contained Computer Vision ca…",
+    "href": "https://github.com/OlafenwaMoses/ImageAI",
+    "star": "6.4k",
+    "lang": "Python"
+  },
+  {
+    "name": "aiortc/aiortc",
+    "description": "WebRTC and ORTC implementation for Python using asyncio",
+    "href": "https://github.com/aiortc/aiortc",
+    "star": "2.5k",
+    "lang": "Python"
+  },
+  {
+    "name": "ggeop/Python-ai-assistant",
+    "description": "Python AI assistant 🧠",
+    "href": "https://github.com/ggeop/Python-ai-assistant",
+    "star": "289",
+    "lang": "Python"
+  },
+  {
+    "name": "tuanavu/airflow-tutorial",
+    "description": "Apache Airflow tutorial",
+    "href": "https://github.com/tuanavu/airflow-tutorial",
+    "star": "573",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "Yorko/mlcourse.ai",
+    "description": "Open Machine Learning Course",
+    "href": "https://github.com/Yorko/mlcourse.ai",
+    "star": "7.8k",
+    "lang": "Python"
+  },
+  {
+    "name": "Hawstein/snake-ai",
+    "description": "a snake AI written in python",
+    "href": "https://github.com/Hawstein/snake-ai",
+    "star": "658",
+    "lang": "Python"
+  },
+  {
+    "name": "MorvanZhou/Reinforcement-learning-with-tensorflow",
+    "description": "Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学",
+    "href": "https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow",
+    "star": "6.6k",
+    "lang": "Python"
+  },
+  {
+    "name": "google/aiyprojects-raspbian",
+    "description": "API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)",
+    "href": "https://github.com/google/aiyprojects-raspbian",
+    "star": "1.5k",
+    "lang": "Python"
+  },
+  {
+    "name": "udacity/AIPND",
+    "description": "Code and associated files for the AI Programming with Python Nanodegree Program",
+    "href": "https://github.com/udacity/AIPND",
+    "star": "458",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "SerpentAI/SerpentAI",
+    "description": "Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!",
+    "href": "https://github.com/SerpentAI/SerpentAI",
+    "star": "6k",
+    "lang": "Python"
+  },
+  {
+    "name": "alfredfrancis/ai-chatbot-framework",
+    "description": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
+    "href": "https://github.com/alfredfrancis/ai-chatbot-framework",
+    "star": "1.5k",
+    "lang": "Python"
+  },
+  {
+    "name": "codota/TabNine",
+    "description": "AI Code Completions",
+    "href": "https://github.com/codota/TabNine",
+    "star": "8.5k",
+    "lang": "Shell"
+  },
+  {
+    "name": "brinesoftwares/Flutter-AI-Rubik-cube-Solver",
+    "description": "Flutter-Python rubiks cube solver.",
+    "href": "https://github.com/brinesoftwares/Flutter-AI-Rubik-cube-Solver",
+    "star": "766",
+    "lang": "Dart"
+  },
+  {
+    "name": "aidlearning/AidLearning-FrameWork",
+    "description": "🔥🔥AidLearning is a powerful mobile development platform, AidLearning builds a linux env supporting GUI, deep learnin…",
+    "href": "https://github.com/aidlearning/AidLearning-FrameWork",
+    "star": "4.4k",
+    "lang": "Python"
+  },
+  {
+    "name": "neuml/txtai",
+    "description": "AI-powered search engine",
+    "href": "https://github.com/neuml/txtai",
+    "star": "1.1k",
+    "lang": "Python"
+  },
+  {
+    "name": "MorvanZhou/Tensorflow-Tutorial",
+    "description": "Tensorflow tutorial from basic to hard, 莫烦Python 中文AI教学",
+    "href": "https://github.com/MorvanZhou/Tensorflow-Tutorial",
+    "star": "4.1k",
+    "lang": "Python"
+  },
+  {
+    "name": "spmallick/learnopencv",
+    "description": "Learn OpenCV : C++ and Python Examples",
+    "href": "https://github.com/spmallick/learnopencv",
+    "star": "14.4k",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "MorvanZhou/Evolutionary-Algorithm",
+    "description": "Evolutionary Algorithm using Python, 莫烦Python 中文AI教学",
+    "href": "https://github.com/MorvanZhou/Evolutionary-Algorithm",
+    "star": "953",
+    "lang": "Python"
+  },
+  {
+    "name": "aiortc/aioquic",
+    "description": "QUIC and HTTP/3 implementation in Python",
+    "href": "https://github.com/aiortc/aioquic",
+    "star": "725",
+    "lang": "Python"
+  },
+  {
+    "name": "aiogram/aiogram",
+    "description": "Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.",
+    "href": "https://github.com/aiogram/aiogram",
+    "star": "1.9k",
+    "lang": "Python"
+  },
+  {
+    "name": "sohelamin/chatbot",
+    "description": "An AI Based Chatbot [DEPRECATED]",
+    "href": "https://github.com/sohelamin/chatbot",
+    "star": "345",
+    "lang": "Python"
+  },
+  {
+    "name": "dhconnelly/paip-python",
+    "description": "Peter Norvig's Paradigms of AI Programming implemented in Python",
+    "href": "https://github.com/dhconnelly/paip-python",
+    "star": "284",
+    "lang": "Python"
+  },
+  {
+    "name": "TEAMLAB-Lecture/AI-python-connect",
+    "description": "",
+    "href": "https://github.com/TEAMLAB-Lecture/AI-python-connect",
+    "star": "53",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "TEAMLAB-Lecture/AI-python-connect",
+    "description": "",
+    "href": "https://github.com/TEAMLAB-Lecture/AI-python-connect",
+    "star": "53",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "chrysn/aiocoap",
+    "description": "The Python CoAP library",
+    "href": "https://github.com/chrysn/aiocoap",
+    "star": "202",
+    "lang": "Python"
+  },
+  {
+    "name": "fossasia/susi_python",
+    "description": "SUSI.AI Python Wrapper",
+    "href": "https://github.com/fossasia/susi_python",
+    "star": "671",
+    "lang": "Python"
+  },
+  {
+    "name": "tangyudi/Ai-Learn",
+    "description": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-lear…",
+    "href": "https://github.com/tangyudi/Ai-Learn",
+    "star": "3.8k",
+    "lang": ""
+  },
+  {
+    "name": "PyTorchLightning/pytorch-lightning",
+    "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "href": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "star": "15k",
+    "lang": "Python"
+  },
+  {
+    "name": "Baidu-AIP/python-sdk",
+    "description": "百度AI开放平台 Python SDK",
+    "href": "https://github.com/Baidu-AIP/python-sdk",
+    "star": "290",
+    "lang": "Python"
+  },
+  {
+    "name": "fastai/numerical-linear-algebra",
+    "description": "Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course",
+    "href": "https://github.com/fastai/numerical-linear-algebra",
+    "star": "8.1k",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "Zulko/easyAI",
+    "description": "Python artificial intelligence framework for games",
+    "href": "https://github.com/Zulko/easyAI",
+    "star": "553",
+    "lang": "Python"
+  },
+  {
+    "name": "nackjicholson/aiosql",
+    "description": "Simple SQL in Python",
+    "href": "https://github.com/nackjicholson/aiosql",
+    "star": "946",
+    "lang": "Python"
+  },
+  {
+    "name": "anki/vector-python-sdk",
+    "description": "Anki Vector Python SDK",
+    "href": "https://github.com/anki/vector-python-sdk",
+    "star": "481",
+    "lang": "Python"
+  },
+  {
+    "name": "jixinpu/aiopstools",
+    "description": "The fundamental package for AIops with python.",
+    "href": "https://github.com/jixinpu/aiopstools",
+    "star": "251",
+    "lang": "Python"
+  },
+  {
+    "name": "Jack-Cherish/PythonPark",
+    "description": "Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。",
+    "href": "https://github.com/Jack-Cherish/PythonPark",
+    "star": "2.9k",
+    "lang": "Python"
+  },
+  {
+    "name": "NetEaseGame/aircv",
+    "description": "Find object position based on python-opencv2",
+    "href": "https://github.com/NetEaseGame/aircv",
+    "star": "294",
+    "lang": "Python"
+  },
+  {
+    "name": "openairplay/airplay2-receiver",
+    "description": "AirPlay 2 Receiver - Python implementation",
+    "href": "https://github.com/openairplay/airplay2-receiver",
+    "star": "274",
+    "lang": "Python"
+  },
+  {
+    "name": "minimaxir/aitextgen",
+    "description": "A robust Python tool for text-based AI training and generation using GPT-2.",
+    "href": "https://github.com/minimaxir/aitextgen",
+    "star": "1.2k",
+    "lang": "Python"
+  },
+  {
+    "name": "udacity/aipnd-project",
+    "description": "Project code for AI Programming with Python ND Program",
+    "href": "https://github.com/udacity/aipnd-project",
+    "star": "88",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "kcwu/2048-python",
+    "description": "2048 ai in python",
+    "href": "https://github.com/kcwu/2048-python",
+    "star": "64",
+    "lang": "Python"
+  },
+  {
+    "name": "nderkach/airbnb-python",
+    "description": "A Python wrapper around the Airbnb API (unofficial)",
+    "href": "https://github.com/nderkach/airbnb-python",
+    "star": "141",
+    "lang": "Python"
+  },
+  {
+    "name": "automagica/automagica",
+    "description": "AI-powered Smart Robotic Process Automation 🤖",
+    "href": "https://github.com/automagica/automagica",
+    "star": "2.6k",
+    "lang": "Python"
+  },
+  {
+    "name": "blark/aiodnsbrute",
+    "description": "Python 3.5+ DNS asynchronous brute force utility",
+    "href": "https://github.com/blark/aiodnsbrute",
+    "star": "392",
+    "lang": "Python"
+  },
+  {
+    "name": "blark/aiodnsbrute",
+    "description": "Python 3.5+ DNS asynchronous brute force utility",
+    "href": "https://github.com/blark/aiodnsbrute",
+    "star": "392",
+    "lang": "Python"
+  },
+  {
+    "name": "omnilib/aiomultiprocess",
+    "description": "Take a modern Python codebase to the next level of performance.",
+    "href": "https://github.com/omnilib/aiomultiprocess",
+    "star": "1.2k",
+    "lang": "Python"
+  },
+  {
+    "name": "googleapis/python-aiplatform",
+    "description": "A Python SDK for Vertex AI, a fully managed, end-to-end platform for data science and machine learning.",
+    "href": "https://github.com/googleapis/python-aiplatform",
+    "star": "103",
+    "lang": "Python"
+  },
+  {
+    "name": "thomasahle/sunfish",
+    "description": "Sunfish: a Python Chess Engine in 111 lines of code",
+    "href": "https://github.com/thomasahle/sunfish",
+    "star": "2.2k",
+    "lang": "Python"
+  },
+  {
+    "name": "Cloud-CV/EvalAI",
+    "description": "☁️ 🚀 📊 📈 Evaluating state of the art in AI",
+    "href": "https://github.com/Cloud-CV/EvalAI",
+    "star": "1.2k",
+    "lang": "Python"
+  },
+  {
+    "name": "creatorrr/pyAIML",
+    "description": "PyAIML -- The Python AIML Interpreter",
+    "href": "https://github.com/creatorrr/pyAIML",
+    "star": "159",
+    "lang": "Python"
+  },
+  {
+    "name": "LearnedVector/A-Hackers-AI-Voice-Assistant",
+    "description": "A hackers AI voice assistant, built using Python and PyTorch.",
+    "href": "https://github.com/LearnedVector/A-Hackers-AI-Voice-Assistant",
+    "star": "411",
+    "lang": "Python"
+  },
+  {
+    "name": "microsoft/PythonProgrammingPuzzles",
+    "description": "A Dataset of Python Challenges for AI Research",
+    "href": "https://github.com/microsoft/PythonProgrammingPuzzles",
+    "star": "276",
+    "lang": "Python"
+  },
+  {
+    "name": "ishikota/PyPokerEngine",
+    "description": "Poker engine for poker AI development in Python",
+    "href": "https://github.com/ishikota/PyPokerEngine",
+    "star": "403",
+    "lang": "Python"
+  },
+  {
+    "name": "MrNothing/AI-Blocks",
+    "description": "A powerful and intuitive WYSIWYG interface that allows anyone to create Machine Learning models!",
+    "href": "https://github.com/MrNothing/AI-Blocks",
+    "star": "1.8k",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "microsoft/PythonProgrammingPuzzles",
+    "description": "A Dataset of Python Challenges for AI Research",
+    "href": "https://github.com/microsoft/PythonProgrammingPuzzles",
+    "star": "276",
+    "lang": "Python"
+  },
+  {
+    "name": "aio-libs/aiodocker",
+    "description": "Python Docker API client based on asyncio and aiohttp",
+    "href": "https://github.com/aio-libs/aiodocker",
+    "star": "312",
+    "lang": "Python"
+  },
+  {
+    "name": "aws-samples/aws-serverless-airline-booking",
+    "description": "Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty p…",
+    "href": "https://github.com/aws-samples/aws-serverless-airline-booking",
+    "star": "1.4k",
+    "lang": "Vue"
+  },
+  {
+    "name": "vladfi1/phillip",
+    "description": "The SSBM \"Phillip\" AI.",
+    "href": "https://github.com/vladfi1/phillip",
+    "star": "511",
+    "lang": "Python"
+  },
+  {
+    "name": "uber/fiber",
+    "description": "Distributed Computing for AI Made Simple",
+    "href": "https://github.com/uber/fiber",
+    "star": "926",
+    "lang": "Python"
+  },
+  {
+    "name": "james-gray/nagini",
+    "description": "A Simple BattleSnake AI Written in Python",
+    "href": "https://github.com/james-gray/nagini",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "Svalorzen/AI-Toolbox",
+    "description": "A C++ framework for MDPs and POMDPs with Python bindings",
+    "href": "https://github.com/Svalorzen/AI-Toolbox",
+    "star": "513",
+    "lang": "C++"
+  },
+  {
+    "name": "girls-in-ai/Girls-In-AI",
+    "description": "免费学代码系列：小白python入门、数据分析data analyst、机器学习machine learning、深度学习deep learning、kaggle实战",
+    "href": "https://github.com/girls-in-ai/Girls-In-AI",
+    "star": "2.2k",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "szastupov/aiotg",
+    "description": "Asynchronous Python library for building Telegram bots",
+    "href": "https://github.com/szastupov/aiotg",
+    "star": "380",
+    "lang": "Python"
+  },
+  {
+    "name": "lyhue1991/PythonAiRoad",
+    "description": "source code of some articles",
+    "href": "https://github.com/lyhue1991/PythonAiRoad",
+    "star": "76",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "ruromgar/python-ai-trading-system",
+    "description": "Code for How To Create A Fully Automated AI Based Trading System With Python",
+    "href": "https://github.com/ruromgar/python-ai-trading-system",
+    "star": "141",
+    "lang": "Python"
+  },
+  {
+    "name": "Apress/practical-python-ai-projects",
+    "description": "Source code for 'Practical Python AI Projects' by Serge Kruk",
+    "href": "https://github.com/Apress/practical-python-ai-projects",
+    "star": "76",
+    "lang": "Python"
+  },
+  {
+    "name": "aio-libs/aioredis-py",
+    "description": "asyncio (PEP 3156) Redis support",
+    "href": "https://github.com/aio-libs/aioredis-py",
+    "star": "1.9k",
+    "lang": "Python"
+  },
+  {
+    "name": "b2wdigital/aiologger",
+    "description": "Asynchronous logging for python and asyncio",
+    "href": "https://github.com/b2wdigital/aiologger",
+    "star": "310",
+    "lang": "Python"
+  },
+  {
+    "name": "udacity/AIPND-revision",
+    "description": "Revision to the code and associated files for the AI Programming with Python Nanodegree Program",
+    "href": "https://github.com/udacity/AIPND-revision",
+    "star": "84",
+    "lang": "Python"
+  },
+  {
+    "name": "BurnySc2/python-sc2",
+    "description": "A StarCraft II bot api client library for Python 3",
+    "href": "https://github.com/BurnySc2/python-sc2",
+    "star": "169",
+    "lang": "Python"
+  },
+  {
+    "name": "Leo-G/Data-Science-Wiki",
+    "description": "A wiki of DataScience, Statistics, Maths, R,Python, AI, Machine Learning, Automation, Devops Tools, Bash, Linux Tutor…",
+    "href": "https://github.com/Leo-G/Data-Science-Wiki",
+    "star": "4.8k",
+    "lang": ""
+  },
+  {
+    "name": "pdeitel/PythonDataScienceFullThrottle",
+    "description": "Downloads for my Safari Online Learning live training course Python Data Science Full Throttle: Introductory Artifici…",
+    "href": "https://github.com/pdeitel/PythonDataScienceFullThrottle",
+    "star": "156",
+    "lang": "HTML"
+  },
+  {
+    "name": "fedden/poker_ai",
+    "description": "🤖 An Open Source Texas Hold'em AI",
+    "href": "https://github.com/fedden/poker_ai",
+    "star": "557",
+    "lang": "Python"
+  },
+  {
+    "name": "explosion/spaCy",
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "href": "https://github.com/explosion/spaCy",
+    "star": "21.1k",
+    "lang": "Python"
+  }
+]

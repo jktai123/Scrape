@@ -1,0 +1,562 @@
+[
+  {
+    "name": "htygithub/machine-learning-python",
+    "description": "機器學習: Python",
+    "href": "https://github.com/htygithub/machine-learning-python",
+    "star": "319",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "kdchang/reactjs101",
+    "description": "從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, Re…",
+    "href": "https://github.com/kdchang/reactjs101",
+    "star": "3.9k",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "ga642381/ML2021-Spring",
+    "description": "**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2021 Spring",
+    "href": "https://github.com/ga642381/ML2021-Spring",
+    "star": "276",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "fukuball/fuku-ml",
+    "description": "Simple machine learning library / 簡單易用的機器學習套件",
+    "href": "https://github.com/fukuball/fuku-ml",
+    "star": "282",
+    "lang": "Python"
+  },
+  {
+    "name": "zxcvbnius/k8s-30-day-sharing",
+    "description": "[ ithome 鐵人賽 ] Kubernetes 30天學習筆記",
+    "href": "https://github.com/zxcvbnius/k8s-30-day-sharing",
+    "star": "124",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "leemengtaiwan/deep-learning-resources",
+    "description": "由淺入深的深度學習資源 Collection of deep learning materials for everyone",
+    "href": "https://github.com/leemengtaiwan/deep-learning-resources",
+    "star": "462",
+    "lang": ""
+  },
+  {
+    "name": "sandaniel/Machine-Learning",
+    "description": "林宏仁的 機器學習 筆記",
+    "href": "https://github.com/sandaniel/Machine-Learning",
+    "star": "1",
+    "lang": "Python"
+  },
+  {
+    "name": "ChihChengLiang/Ethereum_study_guide",
+    "description": "學習 Ethereum 的指引",
+    "href": "https://github.com/ChihChengLiang/Ethereum_study_guide",
+    "star": "49",
+    "lang": ""
+  },
+  {
+    "name": "AllanYiin/DeepBelief_Course4_Examples",
+    "description": "深度學習課程(第四梯)所設計的課程實作",
+    "href": "https://github.com/AllanYiin/DeepBelief_Course4_Examples",
+    "star": "190",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "RaphaHsu/goodidea-react-track",
+    "description": "前端 React 學習實驗",
+    "href": "https://github.com/RaphaHsu/goodidea-react-track",
+    "star": "7",
+    "lang": "CSS"
+  },
+  {
+    "name": "chusiang/using-python",
+    "description": "學習如何使用 Python 程式語言 (exported from Google code)",
+    "href": "https://github.com/chusiang/using-python",
+    "star": "11",
+    "lang": "Makefile"
+  },
+  {
+    "name": "PatrickRuan/ML100-Days",
+    "description": "機器學習百日馬拉松",
+    "href": "https://github.com/PatrickRuan/ML100-Days",
+    "star": "23",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "BryanYu/DesignPatternPractice",
+    "description": "C# Desgin Pattern 學習筆記",
+    "href": "https://github.com/BryanYu/DesignPatternPractice",
+    "star": "20",
+    "lang": "C#"
+  },
+  {
+    "name": "YanHaoChen/Learning-SDN",
+    "description": "SDN 學習及實作範例。(因個人職涯關係，已不再維護，請見諒。)",
+    "href": "https://github.com/YanHaoChen/Learning-SDN",
+    "star": "282",
+    "lang": "Python"
+  },
+  {
+    "name": "twtrubiks/odoo-demo-addons-tutorial",
+    "description": "學習 odoo , 本文章會持續更新",
+    "href": "https://github.com/twtrubiks/odoo-demo-addons-tutorial",
+    "star": "37",
+    "lang": "Python"
+  },
+  {
+    "name": "cccnqu/se106a",
+    "description": "個人學習履歷 (金門大學 / 資訊工程系 106 上學期 / 軟體工程)",
+    "href": "https://github.com/cccnqu/se106a",
+    "star": "11",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "ywchiu/tibamedl",
+    "description": "Python深度學習實戰-  邁向A.I.的第一步",
+    "href": "https://github.com/ywchiu/tibamedl",
+    "star": "25",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "marxwang/ansible-learn-resources",
+    "description": "ansible 學習教學資源整理",
+    "href": "https://github.com/marxwang/ansible-learn-resources",
+    "star": "23",
+    "lang": ""
+  },
+  {
+    "name": "grady1006/OpenCV-Python-Chinesse-Tutorials",
+    "description": "用Python學習OpenCV的中文教學",
+    "href": "https://github.com/grady1006/OpenCV-Python-Chinesse-Tutorials",
+    "star": "13",
+    "lang": "Python"
+  },
+  {
+    "name": "peterhpchen/DigDeeperLINQ",
+    "description": "LINQ自我學習歷程",
+    "href": "https://github.com/peterhpchen/DigDeeperLINQ",
+    "star": "13",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "Xinhe998/nutc-lab-git-practice",
+    "description": "NUTC 前端教學-Git練習",
+    "href": "https://github.com/Xinhe998/nutc-lab-git-practice",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "Xinhe998/nutc-html-css-practice",
+    "description": "NUTC 前端教學-Html-Css練習",
+    "href": "https://github.com/Xinhe998/nutc-html-css-practice",
+    "star": "1",
+    "lang": ""
+  },
+  {
+    "name": "ccccourse/wp109b",
+    "description": "網頁設計 -- 109 下學期 (陳鍾誠課程的學生習題與報告)",
+    "href": "https://github.com/ccccourse/wp109b",
+    "star": "2",
+    "lang": "HTML"
+  },
+  {
+    "name": "GitYCC/machine-learning-papers-summary",
+    "description": "機器學習論文筆記",
+    "href": "https://github.com/GitYCC/machine-learning-papers-summary",
+    "star": "20",
+    "lang": "HTML"
+  },
+  {
+    "name": "tpemartin/108-2-56-inclass-practice",
+    "description": "108-2-56節 資料科學程式設計（一） 課堂練習",
+    "href": "https://github.com/tpemartin/108-2-56-inclass-practice",
+    "star": "",
+    "lang": "HTML"
+  },
+  {
+    "name": "tpemartin/108-2-78-inclass-practice",
+    "description": "108-2-78節 資料科學程式設計（一） 課堂練習",
+    "href": "https://github.com/tpemartin/108-2-78-inclass-practice",
+    "star": "",
+    "lang": "HTML"
+  },
+  {
+    "name": "IPINGCHOU/NTU_MachineLearning",
+    "description": "108-2 Machine Learning (機器學習)",
+    "href": "https://github.com/IPINGCHOU/NTU_MachineLearning",
+    "star": "18",
+    "lang": "Python"
+  },
+  {
+    "name": "ticotico/ISBN-978-986-03-3464-7-homework-solution",
+    "description": "由片語學習c程式設計的作業練習",
+    "href": "https://github.com/ticotico/ISBN-978-986-03-3464-7-homework-solution",
+    "star": "7",
+    "lang": "C"
+  },
+  {
+    "name": "ywchiu/tristar_ml",
+    "description": "機器學習Python入門者課程",
+    "href": "https://github.com/ywchiu/tristar_ml",
+    "star": "4",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "fukuball/FukuML-Tutorial",
+    "description": "Tutorial of FukuML, Simple machine learning library / 簡單易用的機器學習套件 FukuML 教學手冊",
+    "href": "https://github.com/fukuball/FukuML-Tutorial",
+    "star": "34",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "ccccourse/ai109b",
+    "description": "人工智慧 -- 109 下學期 (陳鍾誠課程的學生習題與報告)",
+    "href": "https://github.com/ccccourse/ai109b",
+    "star": "1",
+    "lang": ""
+  },
+  {
+    "name": "Xinhe998/nutc-facebook-html-css-practice",
+    "description": "NUTC 前端教學-Facebook 切版練習作業",
+    "href": "https://github.com/Xinhe998/nutc-facebook-html-css-practice",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "ccccourse/sp109b",
+    "description": "系統程式 -- 109 下學期 (陳鍾誠課程的學生習題與報告)",
+    "href": "https://github.com/ccccourse/sp109b",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "PO-LAB/Intelligent_Production_Scheduling_System_Workshop",
+    "description": "NCKU 成功大學- 智慧生產排程系統研習會",
+    "href": "https://github.com/PO-LAB/Intelligent_Production_Scheduling_System_Workshop",
+    "star": "11",
+    "lang": "HTML"
+  },
+  {
+    "name": "cain19811028/python-notebook",
+    "description": "Python 學習筆記",
+    "href": "https://github.com/cain19811028/python-notebook",
+    "star": "5",
+    "lang": "Python"
+  },
+  {
+    "name": "winwu/objective-C-note-markdown",
+    "description": "主要是放 Objective-C 學習筆記的 Makrdown 文件",
+    "href": "https://github.com/winwu/objective-C-note-markdown",
+    "star": "13",
+    "lang": ""
+  },
+  {
+    "name": "shiwulo/system-programming",
+    "description": "中正大學，資工系，羅習五，系統程式設計課程",
+    "href": "https://github.com/shiwulo/system-programming",
+    "star": "27",
+    "lang": "C"
+  },
+  {
+    "name": "ccccourse/co109a",
+    "description": "計算機結構 -- 109 上學期 (陳鍾誠課程的習題與報告)",
+    "href": "https://github.com/ccccourse/co109a",
+    "star": "",
+    "lang": "Assembly"
+  },
+  {
+    "name": "18z/abs",
+    "description": "Bash腳本進階學習 - 深入探索shell scripting之藝術",
+    "href": "https://github.com/18z/abs",
+    "star": "15",
+    "lang": ""
+  },
+  {
+    "name": "g0v/aray",
+    "description": "貢獻者與學習者時數平台",
+    "href": "https://github.com/g0v/aray",
+    "star": "11",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "joanlin2/learn-hack",
+    "description": "打造超人學習",
+    "href": "https://github.com/joanlin2/learn-hack",
+    "star": "",
+    "lang": "Makefile"
+  },
+  {
+    "name": "shaoeChen/pandas_foundation",
+    "description": "Pandas基礎學習筆記",
+    "href": "https://github.com/shaoeChen/pandas_foundation",
+    "star": "19",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "fukuball/Tom-Chang-Deep-Lyrics",
+    "description": "基於 LSTM 深度學習方法研發而成的張雨生歌詞產生模型，致敬張雨生",
+    "href": "https://github.com/fukuball/Tom-Chang-Deep-Lyrics",
+    "star": "84",
+    "lang": "Python"
+  },
+  {
+    "name": "twtrubiks/face-recognition-notes",
+    "description": "紀錄 face-recognition 學習",
+    "href": "https://github.com/twtrubiks/face-recognition-notes",
+    "star": "6",
+    "lang": ""
+  },
+  {
+    "name": "ccckmit/road2koa",
+    "description": "學習 koa 的自製 (非官方) 範例",
+    "href": "https://github.com/ccckmit/road2koa",
+    "star": "20",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "shaoeChen/Happy_Flask",
+    "description": "Flask學習記錄",
+    "href": "https://github.com/shaoeChen/Happy_Flask",
+    "star": "8",
+    "lang": "Python"
+  },
+  {
+    "name": "NCHUIT/nchuit.github.io",
+    "description": "中興大學資訊科學研習社（NCHUIT）簡介",
+    "href": "https://github.com/NCHUIT/nchuit.github.io",
+    "star": "3",
+    "lang": "HTML"
+  },
+  {
+    "name": "HRTseng/100Day-ML-Marathon",
+    "description": "《機器學習百日馬拉松》練習",
+    "href": "https://github.com/HRTseng/100Day-ML-Marathon",
+    "star": "4",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "kejyun/Laravel-5-Learning-Notes-Books",
+    "description": "記錄有關 KeJyun 學習 Laravel 5 的相關記錄",
+    "href": "https://github.com/kejyun/Laravel-5-Learning-Notes-Books",
+    "star": "11",
+    "lang": ""
+  },
+  {
+    "name": "twy30/notes-nation-learn-foreign-language",
+    "description": "閱讀筆記：《學習外語需知》 by Paul Nation",
+    "href": "https://github.com/twy30/notes-nation-learn-foreign-language",
+    "star": "26",
+    "lang": ""
+  },
+  {
+    "name": "jumbokh/gcp_class",
+    "description": "Google Cloud AI人工智慧與機器學習應用班",
+    "href": "https://github.com/jumbokh/gcp_class",
+    "star": "7",
+    "lang": "Python"
+  },
+  {
+    "name": "letswritetw/letswrite-google-map-api-1",
+    "description": "Google Maps API學習筆記-1：地圖、標記、客製樣式",
+    "href": "https://github.com/letswritetw/letswrite-google-map-api-1",
+    "star": "10",
+    "lang": "HTML"
+  },
+  {
+    "name": "wush978/StatMLDM",
+    "description": "我用來教授統計、機器學習與資料探勘的教材",
+    "href": "https://github.com/wush978/StatMLDM",
+    "star": "10",
+    "lang": "HTML"
+  },
+  {
+    "name": "StarRocket/Python-learning-map",
+    "description": "Python 學習地圖與攻略",
+    "href": "https://github.com/StarRocket/Python-learning-map",
+    "star": "5",
+    "lang": ""
+  },
+  {
+    "name": "kdchang/growth-hacking-resources",
+    "description": "🚀 成長駭客/增長黑客(Growth Hacker)學習資源彙總。A collection of growth hacking resources.",
+    "href": "https://github.com/kdchang/growth-hacking-resources",
+    "star": "32",
+    "lang": ""
+  },
+  {
+    "name": "ccccourse/se109a",
+    "description": "軟體工程與演算法 -- 109 上學期 (陳鍾誠課程的習題與報告)",
+    "href": "https://github.com/ccccourse/se109a",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "ccccourse/ws109a",
+    "description": "網站設計進階 -- 109 上學期 (陳鍾誠課程的習題與報告)",
+    "href": "https://github.com/ccccourse/ws109a",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "jash-git/Learning-OpenCV-3",
+    "description": "《Learning OpenCV 3》學習OpenCV 3 範例/電子檔備份",
+    "href": "https://github.com/jash-git/Learning-OpenCV-3",
+    "star": "9",
+    "lang": "C++"
+  },
+  {
+    "name": "pulipulichen/kals",
+    "description": "閱讀知識合作標註學習系統",
+    "href": "https://github.com/pulipulichen/kals",
+    "star": "8",
+    "lang": "HTML"
+  },
+  {
+    "name": "Lidemy/lidemy-learning-frontend",
+    "description": "Lidemy 導師實驗計畫學習系統前端",
+    "href": "https://github.com/Lidemy/lidemy-learning-frontend",
+    "star": "8",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "ericsk/UWPBootCamp",
+    "description": "Universal Windows Platform (UWP) 的基礎開發訓練營教材及 Lab，適合入門學習 UWP 的開發人員。",
+    "href": "https://github.com/ericsk/UWPBootCamp",
+    "star": "22",
+    "lang": "C#"
+  },
+  {
+    "name": "htaiwan/CoreML_101",
+    "description": "新手學習CoreML",
+    "href": "https://github.com/htaiwan/CoreML_101",
+    "star": "14",
+    "lang": ""
+  },
+  {
+    "name": "40423113/2016fallcadp",
+    "description": "國立虎尾科技大學機械設計工程系 2016 Fall 電腦輔助設計實習課程倉儲",
+    "href": "https://github.com/40423113/2016fallcadp",
+    "star": "",
+    "lang": "Python"
+  },
+  {
+    "name": "teach-and-learn/resources",
+    "description": "學習資源區",
+    "href": "https://github.com/teach-and-learn/resources",
+    "star": "13",
+    "lang": ""
+  },
+  {
+    "name": "kenttw/deeplearning_homework",
+    "description": "個人的 deep learning 學習筆記",
+    "href": "https://github.com/kenttw/deeplearning_homework",
+    "star": "8",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "kemditkb/3rd-ML100Days",
+    "description": "第三屆機器學習百日馬拉松社團-作業",
+    "href": "https://github.com/kemditkb/3rd-ML100Days",
+    "star": "",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "PinYuan/NCTU_ML",
+    "description": "交大電信所機器學習 - 簡仁宗老師",
+    "href": "https://github.com/PinYuan/NCTU_ML",
+    "star": "8",
+    "lang": "Jupyter Notebook"
+  },
+  {
+    "name": "pengdonglin137/linux-4.9",
+    "description": "Linux-4.9學習，tq2440_dt分支是移植到tq2440的記錄，採用了設備樹的方式。",
+    "href": "https://github.com/pengdonglin137/linux-4.9",
+    "star": "5",
+    "lang": "C"
+  },
+  {
+    "name": "aaaddress1/Algorithm",
+    "description": "一些演算法學習筆記",
+    "href": "https://github.com/aaaddress1/Algorithm",
+    "star": "5",
+    "lang": "C++"
+  },
+  {
+    "name": "shouzo/Operating-System_pages",
+    "description": "這是為了學習作業系統所創立的Repository",
+    "href": "https://github.com/shouzo/Operating-System_pages",
+    "star": "2",
+    "lang": "HTML"
+  },
+  {
+    "name": "KID421/Unity_ML_Football",
+    "description": "Unity 機器學習 足球",
+    "href": "https://github.com/KID421/Unity_ML_Football",
+    "star": "1",
+    "lang": "C#"
+  },
+  {
+    "name": "DatouHsu/onlyRxSwift",
+    "description": "RxSwift範例跟一些學習心得",
+    "href": "https://github.com/DatouHsu/onlyRxSwift",
+    "star": "23",
+    "lang": "Swift"
+  },
+  {
+    "name": "hanna9221/Machine-Learning-Foundations-and-Techniques",
+    "description": "機器學習基石和技法(林軒田)的學習筆記與作業",
+    "href": "https://github.com/hanna9221/Machine-Learning-Foundations-and-Techniques",
+    "star": "3",
+    "lang": "Python"
+  },
+  {
+    "name": "kejyun/high-scaling-websites-structure-learning-notes",
+    "description": "KeJyun 在大型網站架構的學習筆記",
+    "href": "https://github.com/kejyun/high-scaling-websites-structure-learning-notes",
+    "star": "12",
+    "lang": ""
+  },
+  {
+    "name": "macdidi5/AndroidTutorial",
+    "description": "你對「Tutorial」有什麼樣的感覺？每一種技術的Tutorial都告訴你這是學習的開始，不過最後好像都會變成折磨的開始。或許可以找出一種方式，讓Tutorial變成大家會很想要點它的超連結！",
+    "href": "https://github.com/macdidi5/AndroidTutorial",
+    "star": "184",
+    "lang": ""
+  },
+  {
+    "name": "40123158/2017springcd",
+    "description": "國立虎尾科技大學機械設計工程系 2017 Spring 協同產品設計實習課程",
+    "href": "https://github.com/40123158/2017springcd",
+    "star": "",
+    "lang": "HTML"
+  },
+  {
+    "name": "nlhsueh/OOSE",
+    "description": "用於 Java, Design Pattern 的教育學習專案，包含一些 demo code。",
+    "href": "https://github.com/nlhsueh/OOSE",
+    "star": "9",
+    "lang": "Java"
+  },
+  {
+    "name": "slmt-tutorial-channel/c-sharp-solutions",
+    "description": "C# 教學中的習題解答",
+    "href": "https://github.com/slmt-tutorial-channel/c-sharp-solutions",
+    "star": "3",
+    "lang": ""
+  },
+  {
+    "name": "dj1020/dj1020.github.io",
+    "description": "閃亮亮大師之路 - 學習心得分享",
+    "href": "https://github.com/dj1020/dj1020.github.io",
+    "star": "9",
+    "lang": "HTML"
+  },
+  {
+    "name": "enter3017sky/mentor-program-2nd-blog",
+    "description": "MTR02 學習紀錄",
+    "href": "https://github.com/enter3017sky/mentor-program-2nd-blog",
+    "star": "1",
+    "lang": "HTML"
+  }
+]

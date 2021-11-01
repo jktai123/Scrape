@@ -1,0 +1,352 @@
+[
+  {
+    "name": "puphpet/puphpet",
+    "description": "Vagrant/Puppet GUI",
+    "href": "https://github.com/puphpet/puphpet",
+    "star": "3.9k",
+    "lang": "HTML"
+  },
+  {
+    "name": "voxpupuli/puppet-jenkins",
+    "description": "Puppet module for Jenkins",
+    "href": "https://github.com/voxpupuli/puppet-jenkins",
+    "star": "279",
+    "lang": "Ruby"
+  },
+  {
+    "name": "elastic/puppet-elasticsearch",
+    "description": "Elasticsearch Puppet module",
+    "href": "https://github.com/elastic/puppet-elasticsearch",
+    "star": "397",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/r10k",
+    "description": "Smarter Puppet deployment",
+    "href": "https://github.com/puppetlabs/r10k",
+    "star": "755",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-firewall",
+    "description": "Puppet Firewall Module",
+    "href": "https://github.com/puppetlabs/puppetlabs-firewall",
+    "star": "266",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-apache",
+    "description": "Puppet module for the Apache httpd server, maintained by Puppet, Inc.",
+    "href": "https://github.com/puppetlabs/puppetlabs-apache",
+    "star": "362",
+    "lang": "Ruby"
+  },
+  {
+    "name": "voxpupuli/puppet-rabbitmq",
+    "description": "RabbitMQ Puppet Module",
+    "href": "https://github.com/voxpupuli/puppet-rabbitmq",
+    "star": "171",
+    "lang": "Ruby"
+  },
+  {
+    "name": "theforeman/puppet-puppet",
+    "description": "Puppet module for Puppet client and server",
+    "href": "https://github.com/theforeman/puppet-puppet",
+    "star": "84",
+    "lang": "Puppet"
+  },
+  {
+    "name": "garethr/garethr-docker",
+    "description": "Puppet module for managing docker",
+    "href": "https://github.com/garethr/garethr-docker",
+    "star": "405",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-stdlib",
+    "description": "Puppet Labs Standard Library module",
+    "href": "https://github.com/puppetlabs/puppetlabs-stdlib",
+    "star": "356",
+    "lang": "Ruby"
+  },
+  {
+    "name": "voxpupuli/beaker",
+    "description": "Puppet Acceptance Testing Harness",
+    "href": "https://github.com/voxpupuli/beaker",
+    "star": "355",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-postgresql",
+    "description": "Puppet module for managing PostgreSQL",
+    "href": "https://github.com/puppetlabs/puppetlabs-postgresql",
+    "star": "224",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppet-docs",
+    "description": "Curated Puppet Documentation",
+    "href": "https://github.com/puppetlabs/puppet-docs",
+    "star": "225",
+    "lang": "HTML"
+  },
+  {
+    "name": "sensu/sensu-puppet",
+    "description": "Sensu Puppet module.",
+    "href": "https://github.com/sensu/sensu-puppet",
+    "star": "168",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-mysql",
+    "description": "MySQL Puppet Module / Manifests + Types & Providers",
+    "href": "https://github.com/puppetlabs/puppetlabs-mysql",
+    "star": "380",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetdb",
+    "description": "Centralized Puppet Storage",
+    "href": "https://github.com/puppetlabs/puppetdb",
+    "star": "265",
+    "lang": "Clojure"
+  },
+  {
+    "name": "rodjek/puppet-logrotate",
+    "description": "Puppet logrotate module",
+    "href": "https://github.com/rodjek/puppet-logrotate",
+    "star": "115",
+    "lang": "Ruby"
+  },
+  {
+    "name": "theforeman/puppet-foreman",
+    "description": "Puppet module for Foreman",
+    "href": "https://github.com/theforeman/puppet-foreman",
+    "star": "99",
+    "lang": "Ruby"
+  },
+  {
+    "name": "voxpupuli/puppet-zabbix",
+    "description": "Puppet module for creating and maintaining zabbix components with puppet.",
+    "href": "https://github.com/voxpupuli/puppet-zabbix",
+    "star": "78",
+    "lang": "Puppet"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-concat",
+    "description": "File concatenation system for Puppet",
+    "href": "https://github.com/puppetlabs/puppetlabs-concat",
+    "star": "173",
+    "lang": "Ruby"
+  },
+  {
+    "name": "voxpupuli/puppet-collectd",
+    "description": "Collectd module for Puppet",
+    "href": "https://github.com/voxpupuli/puppet-collectd",
+    "star": "70",
+    "lang": "Ruby"
+  },
+  {
+    "name": "elastic/puppet-logstash",
+    "description": "Puppet module to manage Logstash",
+    "href": "https://github.com/elastic/puppet-logstash",
+    "star": "191",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-docker",
+    "description": "The Puppet Docker repository",
+    "href": "https://github.com/puppetlabs/puppetlabs-docker",
+    "star": "73",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-lvm",
+    "description": "Puppet Module to manage LVM",
+    "href": "https://github.com/puppetlabs/puppetlabs-lvm",
+    "star": "122",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-java",
+    "description": "Puppet Module to manage Java",
+    "href": "https://github.com/puppetlabs/puppetlabs-java",
+    "star": "101",
+    "lang": "Ruby"
+  },
+  {
+    "name": "saz/puppet-rsyslog",
+    "description": "Manage rsyslog through puppet",
+    "href": "https://github.com/saz/puppet-rsyslog",
+    "star": "50",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-cloud_provisioner",
+    "description": "Puppet Cloudpack",
+    "href": "https://github.com/puppetlabs/puppetlabs-cloud_provisioner",
+    "star": "109",
+    "lang": "Ruby"
+  },
+  {
+    "name": "voxpupuli/puppet-nginx",
+    "description": "Puppet Module to manage NGINX on various UNIXes",
+    "href": "https://github.com/voxpupuli/puppet-nginx",
+    "star": "468",
+    "lang": "Ruby"
+  },
+  {
+    "name": "voxpupuli/puppet-postfix",
+    "description": "Puppet postfix module",
+    "href": "https://github.com/voxpupuli/puppet-postfix",
+    "star": "72",
+    "lang": "HTML"
+  },
+  {
+    "name": "vagrantpress/vagrantpress",
+    "description": "A WordPress Development Environment With Vagrant/Puppet",
+    "href": "https://github.com/vagrantpress/vagrantpress",
+    "star": "747",
+    "lang": "Puppet"
+  },
+  {
+    "name": "apache/infrastructure-puppet",
+    "description": "Apache Infrastructure Puppet",
+    "href": "https://github.com/apache/infrastructure-puppet",
+    "star": "101",
+    "lang": "Python"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-ntp",
+    "description": "Puppet module to manage the NTP service",
+    "href": "https://github.com/puppetlabs/puppetlabs-ntp",
+    "star": "146",
+    "lang": "Ruby"
+  },
+  {
+    "name": "saz/puppet-memcached",
+    "description": "Puppet module for memcached",
+    "href": "https://github.com/saz/puppet-memcached",
+    "star": "57",
+    "lang": "Ruby"
+  },
+  {
+    "name": "voxpupuli/puppet-jira",
+    "description": "Atlassian JIRA Puppet Module",
+    "href": "https://github.com/voxpupuli/puppet-jira",
+    "star": "61",
+    "lang": "Ruby"
+  },
+  {
+    "name": "evolvingweb/puppet-apt",
+    "description": "Puppet module to help manage Apt",
+    "href": "https://github.com/evolvingweb/puppet-apt",
+    "star": "44",
+    "lang": ""
+  },
+  {
+    "name": "stackforge/puppet-openstack",
+    "description": "OpenStack Examples Puppet Module",
+    "href": "https://github.com/stackforge/puppet-openstack",
+    "star": "145",
+    "lang": ""
+  },
+  {
+    "name": "mautrix/whatsapp",
+    "description": "A Matrix-WhatsApp puppeting bridge",
+    "href": "https://github.com/mautrix/whatsapp",
+    "star": "552",
+    "lang": "Go"
+  },
+  {
+    "name": "camptocamp/puppet-tomcat",
+    "description": "Tomcat puppet module",
+    "href": "https://github.com/camptocamp/puppet-tomcat",
+    "star": "90",
+    "lang": "HTML"
+  },
+  {
+    "name": "rodjek/rspec-puppet",
+    "description": "RSpec tests for your Puppet manifests",
+    "href": "https://github.com/rodjek/rspec-puppet",
+    "star": "371",
+    "lang": "Ruby"
+  },
+  {
+    "name": "solarkennedy/puppet-consul",
+    "description": "A Puppet Module to Manage Consul",
+    "href": "https://github.com/solarkennedy/puppet-consul",
+    "star": "118",
+    "lang": "Ruby"
+  },
+  {
+    "name": "biemond/puppet",
+    "description": "Puppet modules",
+    "href": "https://github.com/biemond/puppet",
+    "star": "58",
+    "lang": "HTML"
+  },
+  {
+    "name": "rodjek/vim-puppet",
+    "description": "Puppet niceties for your Vim setup",
+    "href": "https://github.com/rodjek/vim-puppet",
+    "star": "477",
+    "lang": "Vim script"
+  },
+  {
+    "name": "example42/puppet-yum",
+    "description": "Puppet module for Yum",
+    "href": "https://github.com/example42/puppet-yum",
+    "star": "44",
+    "lang": "Puppet"
+  },
+  {
+    "name": "biemond/biemond-oradb",
+    "description": "Puppet Oracle Database Module",
+    "href": "https://github.com/biemond/biemond-oradb",
+    "star": "58",
+    "lang": "Puppet"
+  },
+  {
+    "name": "bfraser/puppet-grafana",
+    "description": "Puppet module to manage Grafana",
+    "href": "https://github.com/bfraser/puppet-grafana",
+    "star": "39",
+    "lang": "Ruby"
+  },
+  {
+    "name": "alup/puppet-rbenv",
+    "description": "Puppet manifest for rbenv installation",
+    "href": "https://github.com/alup/puppet-rbenv",
+    "star": "138",
+    "lang": "Puppet"
+  },
+  {
+    "name": "voxpupuli/puppet-openldap",
+    "description": "Manage OpenLDAP with Puppet",
+    "href": "https://github.com/voxpupuli/puppet-openldap",
+    "star": "34",
+    "lang": "Ruby"
+  },
+  {
+    "name": "voxpupuli/puppet-mcollective",
+    "description": "MCollective Server and Client Puppet Module",
+    "href": "https://github.com/voxpupuli/puppet-mcollective",
+    "star": "121",
+    "lang": "Ruby"
+  },
+  {
+    "name": "puppetlabs/puppetlabs-puppet_agent",
+    "description": "Module for managing Puppet-Agent",
+    "href": "https://github.com/puppetlabs/puppetlabs-puppet_agent",
+    "star": "32",
+    "lang": "Ruby"
+  },
+  {
+    "name": "redhat-cip/puppet-ceph",
+    "description": "Deploy Ceph using puppet",
+    "href": "https://github.com/redhat-cip/puppet-ceph",
+    "star": "67",
+    "lang": "Ruby"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "oscarnevarezleal/ecommerce-crawler",
+    "description": "Parallel ecommerce crawler using Docker and Puppeter on GCP",
+    "href": "https://github.com/oscarnevarezleal/ecommerce-crawler",
+    "star": "4",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "restuwahyu13/node-scraper-content",
+    "description": "example node scraper all content programming using puppeteer",
+    "href": "https://github.com/restuwahyu13/node-scraper-content",
+    "star": "3",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "six-face/instagram-crawler",
+    "description": "Node.js/puppetter",
+    "href": "https://github.com/six-face/instagram-crawler",
+    "star": "",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "joserafael97/auditor-crawler",
+    "description": "Este projeto tem como objetivo avaliar o desempenho de técnicas do estado da arte para Web Crawler e extração de cont…",
+    "href": "https://github.com/joserafael97/auditor-crawler",
+    "star": "1",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "dupingwei/puppetter_crawler",
+    "description": "puppetter 爬虫测试文件",
+    "href": "https://github.com/dupingwei/puppetter_crawler",
+    "star": "",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "minasvisual/cloud-functions-crawler-micro-framework",
+    "description": "cloud functions crawler micro-framework based in node and puppetter",
+    "href": "https://github.com/minasvisual/cloud-functions-crawler-micro-framework",
+    "star": "1",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "silentxnl/webmailer",
+    "description": "base on puppeteer manipulate headless browser to send mail webmail, and extends to an general purpose of crawler and p…",
+    "href": "https://github.com/silentxnl/webmailer",
+    "star": "",
+    "lang": "JavaScript"
+  }
+]

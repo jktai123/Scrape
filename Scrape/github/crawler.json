@@ -1,0 +1,352 @@
+[
+  {
+    "name": "yasserg/crawler4j",
+    "description": "Open Source Web Crawler for Java",
+    "href": "https://github.com/yasserg/crawler4j",
+    "star": "4.1k",
+    "lang": "Java"
+  },
+  {
+    "name": "spatie/crawler",
+    "description": "An easy to use, powerful crawler implemented in PHP. Can execute Javascript.",
+    "href": "https://github.com/spatie/crawler",
+    "star": "2k",
+    "lang": "PHP"
+  },
+  {
+    "name": "code4craft/webmagic",
+    "description": "A scalable web crawler framework for Java.",
+    "href": "https://github.com/code4craft/webmagic",
+    "star": "10k",
+    "lang": "Java"
+  },
+  {
+    "name": "shengqiangzhang/examples-of-web-crawlers",
+    "description": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to be…",
+    "href": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "star": "10.4k",
+    "lang": "Python"
+  },
+  {
+    "name": "binux/pyspider",
+    "description": "A Powerful Spider(Web Crawler) System in Python.",
+    "href": "https://github.com/binux/pyspider",
+    "star": "15.1k",
+    "lang": "Python"
+  },
+  {
+    "name": "gnemoug/distribute_crawler",
+    "description": "使用scrapy,redis, mongodb,graphite实现的一个分布式网络爬虫,底层存储mongodb集群,分布式使用redis实现,爬虫状态显示使用graphite实现",
+    "href": "https://github.com/gnemoug/distribute_crawler",
+    "star": "3.2k",
+    "lang": "Python"
+  },
+  {
+    "name": "gocolly/colly",
+    "description": "Elegant Scraper and Crawler Framework for Golang",
+    "href": "https://github.com/gocolly/colly",
+    "star": "14.6k",
+    "lang": "Go"
+  },
+  {
+    "name": "dadoonet/fscrawler",
+    "description": "Elasticsearch File System Crawler (FS Crawler)",
+    "href": "https://github.com/dadoonet/fscrawler",
+    "star": "967",
+    "lang": "Java"
+  },
+  {
+    "name": "buckyroberts/Spider",
+    "description": "Python website crawler.",
+    "href": "https://github.com/buckyroberts/Spider",
+    "star": "893",
+    "lang": "Python"
+  },
+  {
+    "name": "bda-research/node-crawler",
+    "description": "Web Crawler/Spider for NodeJS + server-side jQuery ;-)",
+    "href": "https://github.com/bda-research/node-crawler",
+    "star": "6k",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "s0md3v/Photon",
+    "description": "Incredibly fast crawler designed for OSINT.",
+    "href": "https://github.com/s0md3v/Photon",
+    "star": "8.1k",
+    "lang": "Python"
+  },
+  {
+    "name": "HunterChao/Crawler",
+    "description": "拉钩 | 豆瓣 | 链家爬虫项目的合集",
+    "href": "https://github.com/HunterChao/Crawler",
+    "star": "310",
+    "lang": "Python"
+  },
+  {
+    "name": "DropsDevopsOrg/ECommerceCrawlers",
+    "description": "实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、…",
+    "href": "https://github.com/DropsDevopsOrg/ECommerceCrawlers",
+    "star": "2.9k",
+    "lang": "Python"
+  },
+  {
+    "name": "BruceDone/awesome-crawler",
+    "description": "A collection of awesome web crawler,spider in different languages",
+    "href": "https://github.com/BruceDone/awesome-crawler",
+    "star": "4.7k",
+    "lang": ""
+  },
+  {
+    "name": "fredwu/crawler",
+    "description": "A high performance web crawler in Elixir.",
+    "href": "https://github.com/fredwu/crawler",
+    "star": "811",
+    "lang": "Elixir"
+  },
+  {
+    "name": "loadchange/amemv-crawler",
+    "description": "🙌Easily download all the videos from TikTok(amemv).下载指定的 抖音（Douyin） 号的视频,抖音爬虫",
+    "href": "https://github.com/loadchange/amemv-crawler",
+    "star": "1.9k",
+    "lang": "Python"
+  },
+  {
+    "name": "zhegexiaohuozi/SeimiCrawler",
+    "description": "一个简单、敏捷、分布式的支持SpringBoot的Java爬虫框架;An agile, distributed crawler framework.",
+    "href": "https://github.com/zhegexiaohuozi/SeimiCrawler",
+    "star": "1.8k",
+    "lang": "Java"
+  },
+  {
+    "name": "Ehco1996/Python-crawler",
+    "description": "从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6",
+    "href": "https://github.com/Ehco1996/Python-crawler",
+    "star": "1.5k",
+    "lang": "HTML"
+  },
+  {
+    "name": "chenjiandongx/magnet-dht",
+    "description": "✌️ Python3 BitTorrent DHT crawler",
+    "href": "https://github.com/chenjiandongx/magnet-dht",
+    "star": "725",
+    "lang": "Python"
+  },
+  {
+    "name": "yujiosaka/headless-chrome-crawler",
+    "description": "Distributed crawler powered by Headless Chrome",
+    "href": "https://github.com/yujiosaka/headless-chrome-crawler",
+    "star": "5k",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "rugantio/fbcrawl",
+    "description": "A Facebook crawler",
+    "href": "https://github.com/rugantio/fbcrawl",
+    "star": "567",
+    "lang": "Python"
+  },
+  {
+    "name": "yaojialyu/crawler",
+    "description": "a web crawler",
+    "href": "https://github.com/yaojialyu/crawler",
+    "star": "130",
+    "lang": "Python"
+  },
+  {
+    "name": "dataabc/weibo-crawler",
+    "description": "新浪微博爬虫，用python爬取新浪微博数据，并下载微博图片和微博视频",
+    "href": "https://github.com/dataabc/weibo-crawler",
+    "star": "1.3k",
+    "lang": "Python"
+  },
+  {
+    "name": "54xingzhe/weixin_crawler",
+    "description": "高效微信公众号历史文章和阅读数据爬虫powered by scrapy",
+    "href": "https://github.com/54xingzhe/weixin_crawler",
+    "star": "327",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "yhangf/PythonCrawler",
+    "description": "💗用python编写的爬虫项目集合",
+    "href": "https://github.com/yhangf/PythonCrawler",
+    "star": "927",
+    "lang": "Python"
+  },
+  {
+    "name": "seveniruby/AppCrawler",
+    "description": "基于appium的app自动遍历工具",
+    "href": "https://github.com/seveniruby/AppCrawler",
+    "star": "970",
+    "lang": "Scala"
+  },
+  {
+    "name": "dixudx/tumblr-crawler",
+    "description": "Easily download all the photos/videos from tumblr blogs. 下载指定的 Tumblr 博客中的图片，视频",
+    "href": "https://github.com/dixudx/tumblr-crawler",
+    "star": "1.1k",
+    "lang": "Python"
+  },
+  {
+    "name": "wycm/zhihu-crawler",
+    "description": "zhihu-crawler是一个基于Java的高性能、支持免费http代理池、支持横向扩展、分布式爬虫项目",
+    "href": "https://github.com/wycm/zhihu-crawler",
+    "star": "900",
+    "lang": "Java"
+  },
+  {
+    "name": "Qianlitp/crawlergo",
+    "description": "A powerful browser crawler for web vulnerability scanners",
+    "href": "https://github.com/Qianlitp/crawlergo",
+    "star": "1.2k",
+    "lang": ""
+  },
+  {
+    "name": "injetlee/Python",
+    "description": "Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机",
+    "href": "https://github.com/injetlee/Python",
+    "star": "7k",
+    "lang": "Python"
+  },
+  {
+    "name": "simplecrawler/simplecrawler",
+    "description": "Flexible event driven crawler for node.",
+    "href": "https://github.com/simplecrawler/simplecrawler",
+    "star": "2.1k",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "YoongiKim/AutoCrawler",
+    "description": "Google, Naver multiprocess image web crawler (Selenium)",
+    "href": "https://github.com/YoongiKim/AutoCrawler",
+    "star": "1k",
+    "lang": "Python"
+  },
+  {
+    "name": "BlankerL/DXY-COVID-19-Crawler",
+    "description": "2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API",
+    "href": "https://github.com/BlankerL/DXY-COVID-19-Crawler",
+    "star": "1.8k",
+    "lang": "Python"
+  },
+  {
+    "name": "apache/nutch",
+    "description": "Apache Nutch is an extensible and scalable web crawler",
+    "href": "https://github.com/apache/nutch",
+    "star": "2.2k",
+    "lang": "Java"
+  },
+  {
+    "name": "kanasimi/work_crawler",
+    "description": "Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 知音漫客 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫…",
+    "href": "https://github.com/kanasimi/work_crawler",
+    "star": "1.4k",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "smuyyh/CrawlerForReader",
+    "description": "Android 本地网络小说爬虫，基于jsoup及xpath",
+    "href": "https://github.com/smuyyh/CrawlerForReader",
+    "star": "316",
+    "lang": "Java"
+  },
+  {
+    "name": "JayBizzle/Crawler-Detect",
+    "description": "🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent",
+    "href": "https://github.com/JayBizzle/Crawler-Detect",
+    "star": "1.5k",
+    "lang": "PHP"
+  },
+  {
+    "name": "ferventdesert/Hawk",
+    "description": "visualized crawler & ETL IDE written with C#/WPF",
+    "href": "https://github.com/ferventdesert/Hawk",
+    "star": "2.9k",
+    "lang": "C#"
+  },
+  {
+    "name": "Kr1s77/Python-crawler-tutorial-starts-from-zero",
+    "description": "python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架",
+    "href": "https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero",
+    "star": "3.6k",
+    "lang": "Python"
+  },
+  {
+    "name": "zhupingqi/RuiJi.Net",
+    "description": "crawler framework, distributed crawler extractor",
+    "href": "https://github.com/zhupingqi/RuiJi.Net",
+    "star": "224",
+    "lang": "C#"
+  },
+  {
+    "name": "Beyyes/crawler",
+    "description": "message for zhihu",
+    "href": "https://github.com/Beyyes/crawler",
+    "star": "102",
+    "lang": "Python"
+  },
+  {
+    "name": "xuxueli/xxl-crawler",
+    "description": "A distributed web crawler framework.（分布式爬虫框架XXL-CRAWLER）",
+    "href": "https://github.com/xuxueli/xxl-crawler",
+    "star": "573",
+    "lang": "Java"
+  },
+  {
+    "name": "symfony/dom-crawler",
+    "description": "The DomCrawler component eases DOM navigation for HTML and XML documents.",
+    "href": "https://github.com/symfony/dom-crawler",
+    "star": "3.4k",
+    "lang": "PHP"
+  },
+  {
+    "name": "huaying/instagram-crawler",
+    "description": "Get Instagram posts/profile/hashtag data without using Instagram API",
+    "href": "https://github.com/huaying/instagram-crawler",
+    "star": "731",
+    "lang": "Python"
+  },
+  {
+    "name": "DigitalPebble/storm-crawler",
+    "description": "A scalable, mature and versatile web crawler based on Apache Storm",
+    "href": "https://github.com/DigitalPebble/storm-crawler",
+    "star": "717",
+    "lang": "Java"
+  },
+  {
+    "name": "leVirve/CrawlerTutorial",
+    "description": "爬蟲極簡教學（fetch, parse, search, multiprocessing, API）- PTT 為例",
+    "href": "https://github.com/leVirve/CrawlerTutorial",
+    "star": "289",
+    "lang": "Python"
+  },
+  {
+    "name": "SmileXie/zhihu_crawler",
+    "description": "Crawler of zhihu.com",
+    "href": "https://github.com/SmileXie/zhihu_crawler",
+    "star": "273",
+    "lang": "Python"
+  },
+  {
+    "name": "evilcos/crawlers",
+    "description": "Some crawlers u know it:-)",
+    "href": "https://github.com/evilcos/crawlers",
+    "star": "333",
+    "lang": "Python"
+  },
+  {
+    "name": "yyyy777/crawler",
+    "description": "python爬虫练习",
+    "href": "https://github.com/yyyy777/crawler",
+    "star": "91",
+    "lang": "Python"
+  },
+  {
+    "name": "Foair/course-crawler",
+    "description": "🎓 中国大学MOOC、学堂在线、网易云课堂、好大学在线、爱课程 MOOC 课程下载。",
+    "href": "https://github.com/Foair/course-crawler",
+    "star": "617",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "name": "youkaclub/youka-desktop",
+    "description": "The Best Karaoke Maker",
+    "href": "https://github.com/youkaclub/youka-desktop",
+    "star": "456",
+    "lang": ""
+  },
+  {
+    "name": "JMPerez/karaoke",
+    "description": "Karaoke built with Web Audio API",
+    "href": "https://github.com/JMPerez/karaoke",
+    "star": "155",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "wafflejs/wafflejs.github.io",
+    "description": "A night of code, waffles, and karaoke.",
+    "href": "https://github.com/wafflejs/wafflejs.github.io",
+    "star": "109",
+    "lang": "HTML"
+  },
+  {
+    "name": "marcan/blitzloop",
+    "description": "Open source karaoke software",
+    "href": "https://github.com/marcan/blitzloop",
+    "star": "131",
+    "lang": "Python"
+  },
+  {
+    "name": "bhj/karaoke-forever",
+    "description": "Open karaoke party system",
+    "href": "https://github.com/bhj/karaoke-forever",
+    "star": "97",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "jessfraz/cliaoke",
+    "description": "Command Line Karaoke.",
+    "href": "https://github.com/jessfraz/cliaoke",
+    "star": "145",
+    "lang": "Go"
+  },
+  {
+    "name": "UltraStar-Deluxe/USDX",
+    "description": "The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™",
+    "href": "https://github.com/UltraStar-Deluxe/USDX",
+    "star": "467",
+    "lang": "Pascal"
+  },
+  {
+    "name": "hysan/react-karaoke-challenge",
+    "description": "Mock code challenge to help students practice writing React.",
+    "href": "https://github.com/hysan/react-karaoke-challenge",
+    "star": "3",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "karaoke-dev/karaoke",
+    "description": "\\more than 69 stars/",
+    "href": "https://github.com/karaoke-dev/karaoke",
+    "star": "85",
+    "lang": "C#"
+  },
+  {
+    "name": "sergiocruz/ng-karaoke",
+    "description": "Karaoke machine concept built in Angular",
+    "href": "https://github.com/sergiocruz/ng-karaoke",
+    "star": "56",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "deckarep/KaraokeBerry",
+    "description": "KaraokeBerry is a Python based web-app that allows you to play Karaoke CDG/MP3 files on your Raspberry Pi and remotel…",
+    "href": "https://github.com/deckarep/KaraokeBerry",
+    "star": "25",
+    "lang": "Python"
+  },
+  {
+    "name": "Wazzaps/karaoke",
+    "description": "A small karaoke app made in Flutter for Linux",
+    "href": "https://github.com/Wazzaps/karaoke",
+    "star": "56",
+    "lang": "Dart"
+  },
+  {
+    "name": "OpenKJ/OpenKJ",
+    "description": "Open source karaoke show hosting software.",
+    "href": "https://github.com/OpenKJ/OpenKJ",
+    "star": "81",
+    "lang": "C++"
+  },
+  {
+    "name": "ltucker/html5_karaoke",
+    "description": "html5 karaoke player",
+    "href": "https://github.com/ltucker/html5_karaoke",
+    "star": "36",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "performous/performous",
+    "description": "An open-source music and rhythm game.",
+    "href": "https://github.com/performous/performous",
+    "star": "368",
+    "lang": "C++"
+  },
+  {
+    "name": "gyunaev/spivak",
+    "description": "A cross-platform Karaoke player",
+    "href": "https://github.com/gyunaev/spivak",
+    "star": "39",
+    "lang": "C"
+  },
+  {
+    "name": "hysan/react-karaoke-challenge-backend",
+    "description": "backend for react-karaoke-challenge",
+    "href": "https://github.com/hysan/react-karaoke-challenge-backend",
+    "star": "",
+    "lang": "Ruby"
+  },
+  {
+    "name": "ultrastares/ultrastar-worldparty",
+    "description": "UltraStar WorldParty. A karaoke game inspired by SingStar™",
+    "href": "https://github.com/ultrastares/ultrastar-worldparty",
+    "star": "70",
+    "lang": "Pascal"
+  },
+  {
+    "name": "tarkah/karaoke-rs",
+    "description": "A simple, network enabled karaoke player in Rust",
+    "href": "https://github.com/tarkah/karaoke-rs",
+    "star": "121",
+    "lang": "Rust"
+  },
+  {
+    "name": "eleybourn/presentation_karaoke",
+    "description": "1 minute, random topic, random slides --- GO!",
+    "href": "https://github.com/eleybourn/presentation_karaoke",
+    "star": "17",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "sk89q/rice-karaoke",
+    "description": "JS karaoke player (2005)",
+    "href": "https://github.com/sk89q/rice-karaoke",
+    "star": "32",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "ST94/KaraokeGenerator",
+    "description": "Create an instrumentation track and lyrics from a regular audio file",
+    "href": "https://github.com/ST94/KaraokeGenerator",
+    "star": "18",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "SarutaSan72/Yass",
+    "description": "Karaoke Editor",
+    "href": "https://github.com/SarutaSan72/Yass",
+    "star": "25",
+    "lang": "Java"
+  },
+  {
+    "name": "adrianblancode/Noraoke",
+    "description": "[OLD] Karaoke app prototype for Android using Material Design",
+    "href": "https://github.com/adrianblancode/Noraoke",
+    "star": "31",
+    "lang": "Java"
+  },
+  {
+    "name": "pie62/HandyKaraoke",
+    "description": "",
+    "href": "https://github.com/pie62/HandyKaraoke",
+    "star": "32",
+    "lang": "C++"
+  },
+  {
+    "name": "hcgonzalezpr/PIzeroKaraoke",
+    "description": "PIzeroKaraoke",
+    "href": "https://github.com/hcgonzalezpr/PIzeroKaraoke",
+    "star": "36",
+    "lang": "PHP"
+  },
+  {
+    "name": "KaraEffect0r/Kara_Effector",
+    "description": "Never been simpler to do karaoke effects",
+    "href": "https://github.com/KaraEffect0r/Kara_Effector",
+    "star": "34",
+    "lang": "Lua"
+  },
+  {
+    "name": "vicwomg/pikaraoke",
+    "description": "Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux",
+    "href": "https://github.com/vicwomg/pikaraoke",
+    "star": "151",
+    "lang": "CSS"
+  },
+  {
+    "name": "alexa-labs/skill-sample-nodejs-pager-karaoke",
+    "description": "Sample multi-modal skill",
+    "href": "https://github.com/alexa-labs/skill-sample-nodejs-pager-karaoke",
+    "star": "16",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "animekaraokesass/anime-karaokes-ass",
+    "description": "Librería de Karaokes ass de opening y ending de anime creada especialmente para trabajar efectos basados en aegisubs.",
+    "href": "https://github.com/animekaraokesass/anime-karaokes-ass",
+    "star": "18",
+    "lang": ""
+  },
+  {
+    "name": "Vocaluxe/Vocaluxe",
+    "description": "Vocaluxe is an open source singing game inspired by SingStar™ and Ultrastar Deluxe.",
+    "href": "https://github.com/Vocaluxe/Vocaluxe",
+    "star": "198",
+    "lang": "C#"
+  },
+  {
+    "name": "webcomponents-la/songroom",
+    "description": "Karaoke in the Cloud",
+    "href": "https://github.com/webcomponents-la/songroom",
+    "star": "31",
+    "lang": "HTML"
+  },
+  {
+    "name": "Katharine/ponytone",
+    "description": "Online Pony Karaoke",
+    "href": "https://github.com/Katharine/ponytone",
+    "star": "12",
+    "lang": "TypeScript"
+  },
+  {
+    "name": "milkyjing/TCAX",
+    "description": "A Python scripting tool for creating karaoke subtitle effects",
+    "href": "https://github.com/milkyjing/TCAX",
+    "star": "40",
+    "lang": "C"
+  },
+  {
+    "name": "chentsulin/react-karaoke-lyric",
+    "description": "Display karaoke lyric progress via React",
+    "href": "https://github.com/chentsulin/react-karaoke-lyric",
+    "star": "25",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "jreich5/karaoke-mock-java-assessment",
+    "description": "This repo contains a project tutorial to practice using concepts from Codeup Java II curriculum",
+    "href": "https://github.com/jreich5/karaoke-mock-java-assessment",
+    "star": "",
+    "lang": "Java"
+  },
+  {
+    "name": "viettranx/VTKaraokeView",
+    "description": "A lib for Karaoke App with Swift",
+    "href": "https://github.com/viettranx/VTKaraokeView",
+    "star": "9",
+    "lang": "Swift"
+  },
+  {
+    "name": "UltraStar-Deluxe/Play",
+    "description": "The free and open source karaoke singing game UltraStar Play for Windows, Linux, Android, Xbox, PlayStation and other…",
+    "href": "https://github.com/UltraStar-Deluxe/Play",
+    "star": "128",
+    "lang": "C#"
+  },
+  {
+    "name": "willwen/KTV",
+    "description": "Chinese Song Karaoke Web App",
+    "href": "https://github.com/willwen/KTV",
+    "star": "14",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "jacarval/KaraokeTube2",
+    "description": "Karaoke queue manager built for karaoke nights at Recurse Center",
+    "href": "https://github.com/jacarval/KaraokeTube2",
+    "star": "9",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "comdevx/thai2karaoke",
+    "description": "convert thai language to karaoke (Romanization)",
+    "href": "https://github.com/comdevx/thai2karaoke",
+    "star": "11",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "jonm/ignite-karaoke",
+    "description": "something fun to do with your friends",
+    "href": "https://github.com/jonm/ignite-karaoke",
+    "star": "3",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "Seekladoom/Aegisub-Karaoke-Effect-481-Templates",
+    "description": "转载自https://huyhuu.com/news/1282/Aegisub-Karaoke-Effect",
+    "href": "https://github.com/Seekladoom/Aegisub-Karaoke-Effect-481-Templates",
+    "star": "28",
+    "lang": "Lua"
+  },
+  {
+    "name": "RobSpectre/Twilio-Karaoke",
+    "description": "A ten minute demo where an entire karaoke machine gets built before your very eyes.",
+    "href": "https://github.com/RobSpectre/Twilio-Karaoke",
+    "star": "18",
+    "lang": "Python"
+  },
+  {
+    "name": "amdcavallaro/karaoke",
+    "description": "Conversational App to buid your own karaoke using GCP, Youtube API and Actions on Google",
+    "href": "https://github.com/amdcavallaro/karaoke",
+    "star": "11",
+    "lang": "HTML"
+  },
+  {
+    "name": "kelvinlawson/pykaraoke",
+    "description": "Cross-platform karaoke player: supports CDG (MP3+G, OGG+G, WAV+G), MIDI (.KAR, .MID) and MPEG formats",
+    "href": "https://github.com/kelvinlawson/pykaraoke",
+    "star": "59",
+    "lang": "Python"
+  },
+  {
+    "name": "Heilum/KaraokeDemo",
+    "description": "This project illustrates how to use AVAudioEngine to mix background music and microphone input, just like karaoke.",
+    "href": "https://github.com/Heilum/KaraokeDemo",
+    "star": "24",
+    "lang": "Objective-C"
+  },
+  {
+    "name": "UltraStar-Deluxe/UltraStar-Manager",
+    "description": "UltraStar Manager",
+    "href": "https://github.com/UltraStar-Deluxe/UltraStar-Manager",
+    "star": "19",
+    "lang": "C++"
+  },
+  {
+    "name": "learn-co-curriculum/react-karaoke-challenge-backend",
+    "description": "",
+    "href": "https://github.com/learn-co-curriculum/react-karaoke-challenge-backend",
+    "star": "",
+    "lang": "Ruby"
+  },
+  {
+    "name": "williums/karaoke_bot",
+    "description": "A music and lyrics bot for Discord servers",
+    "href": "https://github.com/williums/karaoke_bot",
+    "star": "3",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "momentumx/KaraokeCDG",
+    "description": "Make Your own CDG files by listening to the song and pressing spacebar for the words",
+    "href": "https://github.com/momentumx/KaraokeCDG",
+    "star": "4",
+    "lang": "HTML"
+  },
+  {
+    "name": "alexa-labs/skill-sample-python-pager-karaoke",
+    "description": "Sample multi-modal skill",
+    "href": "https://github.com/alexa-labs/skill-sample-python-pager-karaoke",
+    "star": "8",
+    "lang": "Python"
+  },
+  {
+    "name": "AxelTerizaki/karaokebase",
+    "description": "Karaoke Mugen's ASS database. This is a backup repo, main is here : https://lab.shelter.moe/karaokemugen/karaokebase",
+    "href": "https://github.com/AxelTerizaki/karaokebase",
+    "star": "8",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "hammerplay-studios/karaoke",
+    "description": "Karaoke is a neat plugin to parse and display karaoke subtitle files such as SSA/ASS inside Unity",
+    "href": "https://github.com/hammerplay-studios/karaoke",
+    "star": "17",
+    "lang": "C#"
+  },
+  {
+    "name": "SherRao/KaraokeBot",
+    "description": "Our submission for HackTheNorth++",
+    "href": "https://github.com/SherRao/KaraokeBot",
+    "star": "6",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "Ruminoid/Trimmer",
+    "description": "Karaoke subtitle editor.",
+    "href": "https://github.com/Ruminoid/Trimmer",
+    "star": "20",
+    "lang": "C#"
+  },
+  {
+    "name": "gyunaev/karlyriceditor",
+    "description": "lyrics editor and CD+G/video exporter for Karaoke",
+    "href": "https://github.com/gyunaev/karlyriceditor",
+    "star": "14",
+    "lang": "C++"
+  },
+  {
+    "name": "majimenezp/KaraokeList2",
+    "description": "App to index karaoke (cd+g) files, serach,enqueue in web and local, and play the queue for parties",
+    "href": "https://github.com/majimenezp/KaraokeList2",
+    "star": "6",
+    "lang": "C#"
+  },
+  {
+    "name": "Lemonlemons/deep-karaoke",
+    "description": "Machine Learning model for creating karaoke music (stripping out vocals)",
+    "href": "https://github.com/Lemonlemons/deep-karaoke",
+    "star": "15",
+    "lang": "Python"
+  },
+  {
+    "name": "thequux/qaraoke",
+    "description": "Networked karaoke player",
+    "href": "https://github.com/thequux/qaraoke",
+    "star": "4",
+    "lang": "Rust"
+  },
+  {
+    "name": "starrydeveloper/karaokely",
+    "description": "A demo android app for karaoke-like lyrics displaying",
+    "href": "https://github.com/starrydeveloper/karaokely",
+    "star": "9",
+    "lang": "Java"
+  },
+  {
+    "name": "jaketlarson/karaoke-js",
+    "description": "Karaoke JS script",
+    "href": "https://github.com/jaketlarson/karaoke-js",
+    "star": "7",
+    "lang": "Ruby"
+  },
+  {
+    "name": "fcrespel/karaplan",
+    "description": "Karaoke Planner web application with song search, ratings, comments, playlists and more",
+    "href": "https://github.com/fcrespel/karaplan",
+    "star": "2",
+    "lang": "Java"
+  },
+  {
+    "name": "calaldees/KaraKara",
+    "description": "Karaoke Event System - Attendees can view and queue tracks from their mobile phones",
+    "href": "https://github.com/calaldees/KaraKara",
+    "star": "24",
+    "lang": "Python"
+  },
+  {
+    "name": "alexa-labs/skill-sample-java-pager-karaoke",
+    "description": "Sample multi-modal skill",
+    "href": "https://github.com/alexa-labs/skill-sample-java-pager-karaoke",
+    "star": "13",
+    "lang": "Java"
+  },
+  {
+    "name": "CodeupClassroom/hyperion-karaoke-java-practice",
+    "description": "Practice for Java Fundamentals Assessment",
+    "href": "https://github.com/CodeupClassroom/hyperion-karaoke-java-practice",
+    "star": "",
+    "lang": "Java"
+  },
+  {
+    "name": "MylesBorins/iOS-Karaoke-Example",
+    "description": "Prototype for mvp to be devlivered in Music 256b",
+    "href": "https://github.com/MylesBorins/iOS-Karaoke-Example",
+    "star": "5",
+    "lang": "Objective-C"
+  },
+  {
+    "name": "rcarmo/karaoke-pitches",
+    "description": "Presentation Karaoke",
+    "href": "https://github.com/rcarmo/karaoke-pitches",
+    "star": "",
+    "lang": ""
+  },
+  {
+    "name": "CoffeeStraw/PyonFX",
+    "description": "An easy way to create KFX (Karaoke Effects) and complex typesetting using the ASS format (Advanced Substation Alpha).",
+    "href": "https://github.com/CoffeeStraw/PyonFX",
+    "star": "61",
+    "lang": "Python"
+  },
+  {
+    "name": "sujinleeme/vocal-remover-app",
+    "description": "🎤 Vocal Remover for Karaoke (on-going..)",
+    "href": "https://github.com/sujinleeme/vocal-remover-app",
+    "star": "14",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "sujinleeme/vocal-remover-app",
+    "description": "🎤 Vocal Remover for Karaoke (on-going..)",
+    "href": "https://github.com/sujinleeme/vocal-remover-app",
+    "star": "14",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "minkaart/karaoke-database",
+    "description": "php script to processes .csv files from karaoke database, outputs .csv and .json files. jQuery displays the json file…",
+    "href": "https://github.com/minkaart/karaoke-database",
+    "star": "2",
+    "lang": "PHP"
+  },
+  {
+    "name": "karaokenite/karaokenite",
+    "description": "Building the next hanging out experience. 🚀",
+    "href": "https://github.com/karaokenite/karaokenite",
+    "star": "15",
+    "lang": "HTML"
+  },
+  {
+    "name": "alangolm/react-karaoke-challenge",
+    "description": "",
+    "href": "https://github.com/alangolm/react-karaoke-challenge",
+    "star": "1",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "alphadose/Synchron",
+    "description": "A karaoke app in virtual reality",
+    "href": "https://github.com/alphadose/Synchron",
+    "star": "12",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "UltraStar-Deluxe/UltraStar-Creator",
+    "description": "UltraStar Creator",
+    "href": "https://github.com/UltraStar-Deluxe/UltraStar-Creator",
+    "star": "14",
+    "lang": "C++"
+  },
+  {
+    "name": "dustatron/karaoke-team",
+    "description": "A karaoke interface that allows users to collaborate in realtime on a karaoke party/playlist",
+    "href": "https://github.com/dustatron/karaoke-team",
+    "star": "4",
+    "lang": "JavaScript"
+  },
+  {
+    "name": "fajarpnugroho/santan-kara",
+    "description": "MVP karaoke android application with code name santan-kara. This application can record your karaoke video, sample so…",
+    "href": "https://github.com/fajarpnugroho/santan-kara",
+    "star": "8",
+    "lang": "Java"
+  },
+  {
+    "name": "tachi-hi/euterpe",
+    "description": "Real-time Audio-to-audio Karaoke Generation System for Monaural Music",
+    "href": "https://github.com/tachi-hi/euterpe",
+    "star": "19",
+    "lang": "C++"
+  },
+  {
+    "name": "emahub/AUKaraoke",
+    "description": "Audio Units Karaoke Plugin (pan remover & filter)",
+    "href": "https://github.com/emahub/AUKaraoke",
+    "star": "11",
+    "lang": "C++"
+  }
+]

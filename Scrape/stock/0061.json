@@ -1,0 +1,14 @@
+[
+  {
+    "code": "2827 HK",
+    "Name": "BOCI-PRUDENTIAL-W.I.S.E -HKD",
+    "Weight": "97.58",
+    "Type": "ETF"
+  },
+  {
+    "code": "202109CN",
+    "Name": "富時中國A50指數期貨",
+    "Weight": "2.51",
+    "Type": "期貨"
+  }
+]
