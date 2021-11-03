@@ -7,7 +7,7 @@ const doc_Id='18sT6CKuJzMPJnp4JDcOt3484rDVyj5YGh6IBLOB7S9I';
 const sname='軒琪';//'0050';
 const ObjArray=require('./軒琪/看診紀錄.json');
 
-//Stock 
+//Stock @jktai123/common/投資
 //https://docs.google.com/spreadsheets/d/1jx9hL4CZuyET00_6LYbcz4d23WLv7iMsLbcPR3xqGbo/edit#gid=1230294072
 // const doc_Id='1jx9hL4CZuyET00_6LYbcz4d23WLv7iMsLbcPR3xqGbo'
 // const ObjArray=require('./stock/0051.json');
