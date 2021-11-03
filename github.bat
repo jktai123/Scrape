@@ -7,5 +7,6 @@ Rem git config user.name "jktai123"
 
 git add -A .
 git commit -m %1
-git push  rem origin master
+git push  
+rem origin master
 
