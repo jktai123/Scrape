@@ -64,7 +64,7 @@ const GetCat = async (Cat) => {
 					options.forEach(async (opt) => {
 					if(opt.value!=''){
 						result.push({
-						Cat:decodeURI(opt.value),
+						Name:decodeURI(opt.value),
 						href:decodeURI(`${link_h}${opt.value}`)
 					})
 					console.log(opt.value);
