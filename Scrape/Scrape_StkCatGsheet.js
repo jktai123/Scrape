@@ -48,6 +48,40 @@ const GetCat = async (Cat) => {
 		await page.waitForSelector('table.b1.p4_2.r10#MENU8');
 		await page.waitForTimeout(10000);
 		let final=[];
+		for ( i=1 ; i <= 7 ; i++ ){
+			const table_id=`table.b1.p4_2.r10#MENU${i}`;
+			console.log(i,table_id);
+    
+			const data = await page.evaluate((table_id) => {
+				
+				//const images = Array.from(document.querySelector(`table.b1.p4_2.r10#${cat.Table}`).querySelectorAll('td[Style^="/*S"]'));
+				//const images = Array.from(document.querySelector(`table.b1.p4_2.r10#MENU8`).querySelectorAll('td[Style^="/*S"]'));
+				const images = Array.from(document.querySelector(table_id).querySelectorAll('tr[height="25px"]'));
+				const result = [];
+				images.forEach(async (img) => {
+					links=img.querySelectorAll('a')
+					links.forEach(async (link) => {
+					
+						result.push({
+						name:`${decodeURI(link.href).match('(?<==).*?(?=&)')[0]}_${link.text}`,
+						href:decodeURI(`${link.href}`)
+					})
+					console.log(link.text);
+					
+				})
+				})
+			
+			return result;
+			},table_id)
+			console.log(`Data Len ---> ${data.length} `);
+			
+			console.log(data[0]);
+			//console.log(decodeURI(data[0].Cat));
+			//console.log(decodeURI(data[0].href));
+			
+			final = [...final, ...data] //arr3 ==> [1,2,3,4,5,6]
+			
+		}
 		for (let cat of Cat){
 			console.log(cat);
     // await page.evaluate(() => document.alert = window.alert = alert = () => {})
@@ -64,7 +98,7 @@ const GetCat = async (Cat) => {
 					options.forEach(async (opt) => {
 					if(opt.value!=''){
 						result.push({
-						Cat:decodeURI(opt.value),
+						name:decodeURI(opt.value).replace(/%40%40/g,"_"),
 						href:decodeURI(`${link_h}${opt.value}`)
 					})
 					console.log(opt.value);
@@ -83,6 +117,7 @@ const GetCat = async (Cat) => {
 			final = [...final, ...data] //arr3 ==> [1,2,3,4,5,6]
 			
 		}
+		
 		console.log(`Final Len ---> ${final.length}`);
 		
 		SaveGoogleSheet(Type_doc_Id,'Scrape',final);
