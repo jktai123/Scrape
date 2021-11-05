@@ -98,7 +98,9 @@ const GetCat = async (Cat) => {
 					options.forEach(async (opt) => {
 					if(opt.value!=''){
 						result.push({
+
 						name:decodeURI(opt.value).replace(/%40%40/g,"_"),
+
 						href:decodeURI(`${link_h}${opt.value}`)
 					})
 					console.log(opt.value);
