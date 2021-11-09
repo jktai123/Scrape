@@ -7,6 +7,7 @@ const { ReadGoogleSheet, SaveGoogleSheet } = SaveGsheet;
 const doc_Id='1jx9hL4CZuyET00_6LYbcz4d23WLv7iMsLbcPR3xqGbo'; //jktai123/投資/Check_碼
 //https://docs.google.com/spreadsheets/d/1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk/edit?usp=sharing  jktai123/投資/ScrapStock_link
 const Type_doc_Id='1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk'
+// https://docs.google.com/spreadsheets/d/1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk/edit?usp=sharing
 // const Type=['top-gainer','turnover','mom-revenue-growth','yoy-revenue-growth']
 // const Type=['qoq-eps-growth']
 // 爬所有圖片網址
@@ -35,7 +36,7 @@ const Scrape_Rank =(async (Ntype) => {
     'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
         headless: false,
         // slowMo: 100,
-        args: ['--window-size=400,1400']//, '--disable-notifications', '--no-sandbox']
+        args: ['--window-size=400,1400', '--disable-notifications', '--no-sandbox']
     })
     
     const page = await browser.newPage();
@@ -47,20 +48,34 @@ const Scrape_Rank =(async (Ntype) => {
             waitUntil: 'domcontentloaded',
         }) // your url here
     await page.waitForSelector('table.r10_0_0_10.b1.p4_1>tbody>tr');
-    await page.waitForTimeout(10000);
+    await page.waitForTimeout(1000);
     // await page.evaluate(() => document.alert = window.alert = alert = () => {})
+	
     const data = await page.evaluate(() => {
         const images = Array.from(document.querySelectorAll('table.r10_0_0_10.b1.p4_1>tbody>tr'));
+	   //  const images = Array.from(document.querySelectorAll('table#tblStockList'));
         const result = [];
         
         images.forEach(async (img,index) => {
-            if(index>0 && index<30){
-                if(Number(img.querySelectorAll('td')[0].textContent)>0){
-                    result.push({
-                        code:img.querySelectorAll('td')[1].textContent,
-                        Name:img.querySelectorAll('td')[2].textContent,
-                    })
-                }
+			imglen=img.querySelectorAll('td').length;
+			
+            if(index>0 && index<30 && imglen>0){
+				if(imglen==3 ){
+					if(Number(img.querySelectorAll('td')[0].textContent)>0){
+						result.push({
+							code:img.querySelectorAll('td')[1].textContent,
+							Name:img.querySelectorAll('td')[2].textContent,
+						})
+					}
+				}
+				else if(imglen==2){
+					if(Number(img.querySelectorAll('td')[0].textContent)>0){
+						result.push({
+							code:img.querySelectorAll('td')[0].textContent,
+							Name:img.querySelectorAll('td')[1].textContent,
+						})
+					}	
+				}
             }
             
         })
