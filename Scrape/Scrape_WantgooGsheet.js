@@ -82,19 +82,19 @@ const Scrape_Cat_detail =(async (item) => {
 			waitUntil: 'domcontentloaded',
 		}) // your url here
     await page.waitForSelector('tbody.rt');
-    await page.waitForTimeout(2000);
-    
+    await page.waitForTimeout(15000);
+    try{
 	const data = await page.evaluate(() => {
         const images = Array.from(document.querySelectorAll('tbody.rt>tr'));
         const result = [];
-        for (let i = 0; i < 32; i++)
+        for (let i = 12; i < 32; i++)
          {
            
         //    img.querySelectorAll('td')[0].innerText;
            result.push({
                 code:images[i].querySelectorAll('td')[1].innerText,
-                Name:images[i].querySelectorAll('td')[2].innerText,
-                Rank:images[i].querySelectorAll('td')[0].innerText});
+                Name: images[i].querySelectorAll('td')[2].innerText,
+                Rank: images[i].querySelectorAll('td')[0].innerText});
              }
 		return result;
 	})
@@ -104,6 +104,9 @@ const Scrape_Cat_detail =(async (item) => {
     // save_jsoncsv('stock',`${f_lead}`,data);
 		SaveGoogleSheet(doc_Id,sname,data);
     }
+	}catch(err){
+		console.log(err);
+	}
     await page.close();
     await browser.close(); 
 })
