@@ -81,13 +81,14 @@ const Scrape_Cat_detail =(async (item) => {
     await page.goto(url, {
 			waitUntil: 'domcontentloaded',
 		}) // your url here
-    await page.waitForSelector('tbody.rt');
-    await page.waitForTimeout(15000);
-    try{
+	try{
+    await page.waitForSelector('tbody.rt>tr>td.cr');
+    //await page.waitForTimeout(111000);
+    
 	const data = await page.evaluate(() => {
-        const images = Array.from(document.querySelectorAll('tbody.rt>tr'));
+        const images = Array.from(document.querySelectorAll('tbody#rankingData>tr'));
         const result = [];
-        for (let i = 12; i < 32; i++)
+        for (let i = 0; i < 32; i++)
          {
            
         //    img.querySelectorAll('td')[0].innerText;
@@ -116,13 +117,20 @@ const UpdateWantgoo = async () => {
 	//console.log(Type);
     // await delay(2000);
     // console.log("Waited 2s");
+	//await Scrape_Cat_detail({Name:'Test',href:'https://www.wantgoo.com/stock/ranking/pbr'});
+	//for (let i=Type.length-1;i>0;i--){
+	//	console.log(Type[i].Name,Type[i].href);
+		
+    //   await Scrape_Cat_detail(Type[i]);
+	//}
     for(let item of Type){
 		//console.log(item.ETFcode, typeof item.ETFcode);
 		console.log(item.Name,item.href);
 		
-       await Scrape_Cat_detail(item);
+		await Scrape_Cat_detail(item);
     }
 }
+
 UpdateWantgoo();
 
 //ETF.forEach(code=>{
