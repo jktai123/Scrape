@@ -68,12 +68,12 @@ const Scrape_Cat_detail =(async (item) => {
     'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
         headless: false,
         // slowMo: 100,
-        args: ['--window-size=400,1400', '--disable-notifications', '--no-sandbox']
+        args: ['--window-size=700,1400', '--disable-notifications'] //, '--no-sandbox']
     })
     const page = await browser.newPage();
-     page.setDefaultNavigationTimeout(50000); // 50 sec
+     page.setDefaultNavigationTimeout(20000); // 50 sec
     await page.setUserAgent(
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36'
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36'
  );
    
     console.log(`Scrape ---  ${sname}`)
@@ -111,7 +111,7 @@ const Scrape_Cat_detail =(async (item) => {
     await page.close();
     await browser.close(); 
 })
-const UpdateWantgoo = async () => {
+const UpdateWantgoo = async (name) => {
 	const Type=await Scrape_Cat();
 	console.log(Type.length);
 	//console.log(Type);
@@ -123,15 +123,22 @@ const UpdateWantgoo = async () => {
 		
     //   await Scrape_Cat_detail(Type[i]);
 	//}
+	let cnt=0;
     for(let item of Type){
 		//console.log(item.ETFcode, typeof item.ETFcode);
-		console.log(item.Name,item.href);
+		//console.log(item.Name,item.href);
 		
 		await Scrape_Cat_detail(item);
+		if(item.Name==name) { break; }
+		cnt=cnt+1;
+		
     }
 }
+Scrape_Cat_detail({Name:'成交值',href:'https://www.wantgoo.com/stock/ranking/turnover'});
+//Scrape_Cat_detail({Name:'跌幅',href:'https://www.wantgoo.com/stock/ranking/top-loser'});
 
-UpdateWantgoo();
+UpdateWantgoo('振幅');
+//UpdateWantgoo();
 
 //ETF.forEach(code=>{
     
