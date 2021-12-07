@@ -50,6 +50,7 @@ const Scrape_Cat =(async () => {
     await page.close();
     await browser.close(); 
 	console.log(`共蒐集到${data.length}則連結`);
+	console.log(data);
 	return data;
 })
 const Scrape_Cat_detail1 =(async (item) => { 
@@ -59,10 +60,10 @@ const Scrape_Cat_detail1 =(async (item) => {
 	console.log(url,sname);
 })
 const Scrape_Cat_detail =(async (item) => { 
-	console.log(item);
+	//console.log(item);
     const url=item.href;
 	const sname=item.Name;
-	console.log(url,sname);
+	//console.log(url,sname);
     const browser = await puppeteer.launch({
         executablePath:
     'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
@@ -71,12 +72,12 @@ const Scrape_Cat_detail =(async (item) => {
         args: ['--window-size=700,1400', '--disable-notifications'] //, '--no-sandbox']
     })
     const page = await browser.newPage();
-     page.setDefaultNavigationTimeout(20000); // 50 sec
+     page.setDefaultNavigationTimeout(15000); // 15 sec
     await page.setUserAgent(
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36'
  );
    
-    console.log(`Scrape ---  ${sname}`)
+    console.log(`Scrape ---  ${sname} -- ${url}`);
    
     await page.goto(url, {
 			waitUntil: 'domcontentloaded',
@@ -109,7 +110,7 @@ const Scrape_Cat_detail =(async (item) => {
 	}catch(err){
 		console.log(err);
 	}
->>>>>>> fb213ee79b1933f84b2fb13431b8cb241bb0bab2
+
     await page.close();
     await browser.close(); 
 })
@@ -138,10 +139,13 @@ const UpdateWantgoo = async (name) => {
 
     }
 }
-Scrape_Cat_detail({Name:'成交值',href:'https://www.wantgoo.com/stock/ranking/turnover'});
+
+UpdateWantgoo('成交值'); //('振幅');
+
+//Scrape_Cat_detail({Name:'成交值',href:'https://www.wantgoo.com/stock/ranking/turnover'});
 //Scrape_Cat_detail({Name:'跌幅',href:'https://www.wantgoo.com/stock/ranking/top-loser'});
 
-UpdateWantgoo('振幅');
+
 //UpdateWantgoo();
 
 //ETF.forEach(code=>{

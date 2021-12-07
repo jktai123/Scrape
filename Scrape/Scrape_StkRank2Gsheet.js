@@ -63,7 +63,7 @@ const Scrape_Rank =(async (Ntype) => {
 				if(imglen==3 ){
 					if(Number(img.querySelectorAll('td')[0].textContent)>0){
 						result.push({
-							code:img.querySelectorAll('td')[1].textContent,
+							code:"'"+img.querySelectorAll('td')[1].textContent,
 							Name:img.querySelectorAll('td')[2].textContent,
 						})
 					}
@@ -71,7 +71,7 @@ const Scrape_Rank =(async (Ntype) => {
 				else if(imglen==2){
 					if(Number(img.querySelectorAll('td')[0].textContent)>0){
 						result.push({
-							code:img.querySelectorAll('td')[0].textContent,
+							code:"'"+img.querySelectorAll('td')[0].textContent,
 							Name:img.querySelectorAll('td')[1].textContent,
 						})
 					}	
