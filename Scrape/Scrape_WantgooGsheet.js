@@ -124,7 +124,7 @@ const UpdateWantgoo = async (name) => {
 	//for (let i=Type.length-1;i>0;i--){
 	//	console.log(Type[i].Name,Type[i].href);
 		
-    //   await Scrape_Cat_detail(Type[i]);
+    //   await Scrape_Cat_detail(Type[i]);TT
 	//}
 	let cnt=0;
     for(let item of Type){
