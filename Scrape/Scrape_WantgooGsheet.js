@@ -81,29 +81,31 @@ const Scrape_Cat_detail =(async (item) => {
     await page.goto(url, {
 			waitUntil: 'domcontentloaded',
 		}) // your url here
-    await page.waitForSelector('tbody.rt');
-    await page.waitForTimeout(2000);
-    
-	const data = await page.evaluate(() => {
-        const images = Array.from(document.querySelectorAll('tbody.rt>tr'));
-        const result = [];
-        for (let i = 0; i < 32; i++)
-         {
-           
-        //    img.querySelectorAll('td')[0].innerText;
-           result.push({
-                code:images[i].querySelectorAll('td')[1].innerText,
-                Name:images[i].querySelectorAll('td')[2].innerText,
-                Rank:images[i].querySelectorAll('td')[0].innerText});
-             }
-		return result;
-	})
-       
-	console.log(`共蒐集到${data.length}則連結`);
-	if(data.length>0){
-    // save_jsoncsv('stock',`${f_lead}`,data);
-		SaveGoogleSheet(doc_Id,sname,data);
-    }
+	try{
+		await page.waitForSelector('tbody.rt');
+		await page.waitForTimeout(2000);
+		
+		const data = await page.evaluate(() => {
+			const images = Array.from(document.querySelectorAll('tbody.rt>tr'));
+			const result = [];
+			for (let i = 0; i < 32; i++)
+			 {
+			   
+			//    img.querySelectorAll('td')[0].innerText;
+			   result.push({
+					code:images[i].querySelectorAll('td')[1].innerText,
+					Name:images[i].querySelectorAll('td')[2].innerText,
+					Rank:images[i].querySelectorAll('td')[0].innerText});
+				 }
+			return result;
+		})
+	
+		console.log(`共蒐集到${data.length}則連結`);
+		if(data.length>0){
+		// save_jsoncsv('stock',`${f_lead}`,data);
+			SaveGoogleSheet(doc_Id,sname,data);
+		}
+	}catch(err){console.log(err);}
     await page.close();
     await browser.close(); 
 })
@@ -113,11 +115,15 @@ const UpdateWantgoo = async () => {
 	//console.log(Type);
     // await delay(2000);
     // console.log("Waited 2s");
+	//const a=[{href:"https://www.wantgoo.com/stock/ranking/pbr",Name:'股淨比'}]
+	   //await Scrape_Cat_detail(a);
+	let cnt=0;
     for(let item of Type){
 		//console.log(item.ETFcode, typeof item.ETFcode);
 		console.log(item.Name,item.href);
-		
-       await Scrape_Cat_detail(item);
+		cnt++;
+		await Scrape_Cat_detail(item);
+		if(cnt>=11) {break;}
     }
 }
 UpdateWantgoo();
