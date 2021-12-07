@@ -68,12 +68,12 @@ const Scrape_Cat_detail =(async (item) => {
     'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe',
         headless: false,
         // slowMo: 100,
-        args: ['--window-size=400,1400', '--disable-notifications', '--no-sandbox']
+        args: ['--window-size=700,1400', '--disable-notifications'] //, '--no-sandbox']
     })
     const page = await browser.newPage();
-     page.setDefaultNavigationTimeout(50000); // 50 sec
+     page.setDefaultNavigationTimeout(20000); // 50 sec
     await page.setUserAgent(
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36'
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36'
  );
    
     console.log(`Scrape ---  ${sname}`)
@@ -82,51 +82,67 @@ const Scrape_Cat_detail =(async (item) => {
 			waitUntil: 'domcontentloaded',
 		}) // your url here
 	try{
-		await page.waitForSelector('tbody.rt');
-		await page.waitForTimeout(2000);
-		
-		const data = await page.evaluate(() => {
-			const images = Array.from(document.querySelectorAll('tbody.rt>tr'));
-			const result = [];
-			for (let i = 0; i < 32; i++)
-			 {
-			   
-			//    img.querySelectorAll('td')[0].innerText;
-			   result.push({
-					code:images[i].querySelectorAll('td')[1].innerText,
-					Name:images[i].querySelectorAll('td')[2].innerText,
-					Rank:images[i].querySelectorAll('td')[0].innerText});
-				 }
-			return result;
-		})
-	
-		console.log(`共蒐集到${data.length}則連結`);
-		if(data.length>0){
-		// save_jsoncsv('stock',`${f_lead}`,data);
-			SaveGoogleSheet(doc_Id,sname,data);
-		}
-	}catch(err){console.log(err);}
+
+    await page.waitForSelector('tbody.rt>tr>td.cr');
+    //await page.waitForTimeout(111000);
+    
+	const data = await page.evaluate(() => {
+        const images = Array.from(document.querySelectorAll('tbody#rankingData>tr'));
+        const result = [];
+        for (let i = 0; i < 32; i++)
+         {
+           
+        //    img.querySelectorAll('td')[0].innerText;
+           result.push({
+                code:images[i].querySelectorAll('td')[1].innerText,
+                Name: images[i].querySelectorAll('td')[2].innerText,
+                Rank: images[i].querySelectorAll('td')[0].innerText});
+             }
+		return result;
+	})
+       
+	console.log(`共蒐集到${data.length}則連結`);
+	if(data.length>0){
+    // save_jsoncsv('stock',`${f_lead}`,data);
+		SaveGoogleSheet(doc_Id,sname,data);
+    }
+	}catch(err){
+		console.log(err);
+	}
+>>>>>>> fb213ee79b1933f84b2fb13431b8cb241bb0bab2
     await page.close();
     await browser.close(); 
 })
-const UpdateWantgoo = async () => {
+const UpdateWantgoo = async (name) => {
 	const Type=await Scrape_Cat();
 	console.log(Type.length);
 	//console.log(Type);
     // await delay(2000);
     // console.log("Waited 2s");
-	//const a=[{href:"https://www.wantgoo.com/stock/ranking/pbr",Name:'股淨比'}]
-	   //await Scrape_Cat_detail(a);
+
+	//await Scrape_Cat_detail({Name:'Test',href:'https://www.wantgoo.com/stock/ranking/pbr'});
+	//for (let i=Type.length-1;i>0;i--){
+	//	console.log(Type[i].Name,Type[i].href);
+		
+    //   await Scrape_Cat_detail(Type[i]);
+	//}
 	let cnt=0;
     for(let item of Type){
 		//console.log(item.ETFcode, typeof item.ETFcode);
-		console.log(item.Name,item.href);
-		cnt++;
+		//console.log(item.Name,item.href);
+		
 		await Scrape_Cat_detail(item);
-		if(cnt>=11) {break;}
+		if(item.Name==name) { break; }
+		cnt=cnt+1;
+		
+
     }
 }
-UpdateWantgoo();
+Scrape_Cat_detail({Name:'成交值',href:'https://www.wantgoo.com/stock/ranking/turnover'});
+//Scrape_Cat_detail({Name:'跌幅',href:'https://www.wantgoo.com/stock/ranking/top-loser'});
+
+UpdateWantgoo('振幅');
+//UpdateWantgoo();
 
 //ETF.forEach(code=>{
     
