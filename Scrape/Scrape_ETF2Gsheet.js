@@ -12,7 +12,7 @@ const ETF=['0050','0056','00881','00878']
 // 爬所有圖片網址
 const Type_doc_Id='1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk'
 //https://docs.google.com/spreadsheets/d/1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk/edit?usp=sharing
-const Scrape_ETF =(async (f_lead) => { 
+const Scrape_ETF =(async (f_lead,sname) => { 
 	//console.log(f_lead);
     const urls=[`https://www.cmoney.tw/etf/e210.aspx?key=${f_lead}`];
     const browser = await puppeteer.launch({
@@ -30,7 +30,7 @@ const Scrape_ETF =(async (f_lead) => {
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36'
  );
    let data=[];
-   console.log(`Scrape --- ETF ${f_lead}`)
+   console.log(`Scrape --- ${sname}`)
    for(url of urls){
         await page.goto(url, {
             waitUntil: 'domcontentloaded',
@@ -62,7 +62,9 @@ const Scrape_ETF =(async (f_lead) => {
   console.log(`共蒐集到${data.length}則連結`);
   if(data.length>0){
     // save_jsoncsv('stock',`${f_lead}`,data);
-    SaveGoogleSheet(doc_Id,f_lead,data);
+    //SaveGoogleSheet(doc_Id,f_lead,data);
+	console.log('Saving --->'+sname);
+	SaveGoogleSheet(doc_Id,sname,data);
     }
 	
 
@@ -80,7 +82,7 @@ const UpdateETF = async () => {
 		//console.log(item.ETFcode, typeof item.ETFcode);
 		
 		if(item.ETFcode === undefined ) {break;}
-        await Scrape_ETF(item.ETFcode);
+        await Scrape_ETF(item.ETFcode,item.ETFcode+'_'+item.Name);
     }
 }
 UpdateETF();
