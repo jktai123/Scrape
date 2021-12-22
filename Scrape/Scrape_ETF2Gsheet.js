@@ -8,8 +8,8 @@ const { ReadGoogleSheet, SaveGoogleSheet } = SaveGsheet;
 // const doc_Id='18sT6CKuJzMPJnp4JDcOt3484rDVyj5YGh6IBLOB7S9I';
 // const sname='0056'; //'軒琪';//'0050';
 const doc_Id='1jx9hL4CZuyET00_6LYbcz4d23WLv7iMsLbcPR3xqGbo'; //
-const ETF=['0050','0056','00881','00878']
-// 爬所有圖片網址
+//Input ---->   https://bit.ly/32o4MkM ETF   ScrapStock_link 
+//Output ---->  https://bit.ly/3phuDUo 		 Check_碼
 const Type_doc_Id='1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk'
 //https://docs.google.com/spreadsheets/d/1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk/edit?usp=sharing
 const Scrape_ETF =(async (f_lead,sname) => { 
@@ -63,7 +63,7 @@ const Scrape_ETF =(async (f_lead,sname) => {
   if(data.length>0){
     // save_jsoncsv('stock',`${f_lead}`,data);
     //SaveGoogleSheet(doc_Id,f_lead,data);
-	console.log('Saving --->'+sname);
+	//console.log('Saving --->'+sname);
 	SaveGoogleSheet(doc_Id,sname,data);
     }
 	
@@ -74,6 +74,9 @@ const Scrape_ETF =(async (f_lead,sname) => {
 })
 
 const UpdateETF = async () => {
+	console.log(`Source --- https://www.cmoney.tw/etf/e210.aspx?key=0050
+	Input ---->   https://bit.ly/32o4MkM ETF	ScrapStock_link 
+	Output ---->  https://bit.ly/3phuDUo 		Check_碼`);
 	const Type=await ReadGoogleSheet(Type_doc_Id,'ETF');
 	console.log(Type.length);
     // await delay(2000);
