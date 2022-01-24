@@ -74,7 +74,7 @@ const ReadGoogleSheet =(async (doc_Id,sname) => {
         console.log('--->'+rows.length);
         const result=convertToObjects(headers, rows)
         console.log(`---${doc.title}--${sname} --Read Done`);
-        
+        console.log(result);
         return result;
 
         

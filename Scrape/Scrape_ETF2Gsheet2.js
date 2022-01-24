@@ -1,10 +1,10 @@
 const puppeteer = require('puppeteer');
 // const save_jsoncsv = require("./save_jsoncsv");
 const SaveGsheet = require("./SaveGoogleSheet");
-//const ReadGSht = require("./SaveGSht");
-//const { ReadGoogleSheet}=ReadGSht;
-//const {  SaveGoogleSheet } = SaveGsheet;
-const { ReadGoogleSheet, SaveGoogleSheet } = SaveGsheet;
+const ReadGSht = require("./SaveGSht");
+const { ReadGoogleSheet}=ReadGSht;
+const {  SaveGoogleSheet } = SaveGsheet;
+//const { ReadGoogleSheet, SaveGoogleSheet } = SaveGsheet;
 //const { SaveGoogleSheet} = SaveGsheet;
 
 // const doc_Id='18sT6CKuJzMPJnp4JDcOt3484rDVyj5YGh6IBLOB7S9I';
@@ -12,8 +12,8 @@ const { ReadGoogleSheet, SaveGoogleSheet } = SaveGsheet;
 const doc_Id='1jx9hL4CZuyET00_6LYbcz4d23WLv7iMsLbcPR3xqGbo'; //
 //Input ---->   https://bit.ly/32o4MkM ETF   ScrapStock_link 
 //Output ---->  https://bit.ly/3phuDUo 		 Check_碼
-const Type_doc_Id='1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk'
-//'https://docs.google.com/spreadsheets/d/1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk/edit?usp=sharing'
+const Type_doc_Id=//'1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk'
+'https://docs.google.com/spreadsheets/d/1SoMEYJbCHBd3FDl8gjaiQMZ1WBCkDTazGHALGnKgMpk/edit?usp=sharing'
 const Scrape_ETF =(async (f_lead,sname) => { 
 	//console.log(f_lead);
     const urls=[`https://www.cmoney.tw/etf/e210.aspx?key=${f_lead}`];
@@ -80,7 +80,7 @@ const UpdateETF = async () => {
 	Input ---->   https://bit.ly/32o4MkM ETF	ScrapStock_link 
 	Output ---->  https://bit.ly/3phuDUo 		Check_碼`);
 	const Type=await ReadGoogleSheet(Type_doc_Id,'ETF');
-	console.log(Type.length);
+	console.log(`Type.length-----${Type.length}`);
     // await delay(2000);
     // console.log("Waited 2s");
     for(let item of Type){
