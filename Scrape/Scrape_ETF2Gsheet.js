@@ -29,7 +29,13 @@ const Scrape_ETF =(async (f_lead,sname) => {
     await page.setUserAgent(
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36'
  );
-   let data=[];
+   let data=[{code:`'${f_lead}`,
+                Name:sname,
+                Weight:0,
+                Type:'ETF'
+           
+			
+		}];
    console.log(`Scrape --- ${sname}`)
    for(url of urls){
         await page.goto(url, {
@@ -58,7 +64,7 @@ const Scrape_ETF =(async (f_lead,sname) => {
        
         data=[...data,...data1];
     }
-       
+   
   console.log(`共蒐集到${data.length}則連結`);
   if(data.length>0){
     // save_jsoncsv('stock',`${f_lead}`,data);
